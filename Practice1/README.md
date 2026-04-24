@@ -34,7 +34,7 @@ The objective is to build clear and meaningful visualizations that help in under
 ## 📂 Project Structure
 
 ```text
-Task-1/
+Practice1/
 │
 ├── Practice1.pbix               # Power BI dashboard file
 ├── Practice1.pdf                # Report with screenshots and explanations
