@@ -49,6 +49,7 @@ The dashboard combines multiple visualizations to provide a clear understanding 
 Practice2/
 │
 ├── Practice2.pbix        # Power BI dashboard file
+├── financial_sample.xlsx # Dataset used for analysis
 ├── image/                # Dashboard screenshot
 └── README.md             
 ```
