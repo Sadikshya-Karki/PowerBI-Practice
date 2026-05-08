@@ -1,0 +1,1001 @@
+transaction_date,product_id,product_name,product_brand,quantity,product_selling_price,product_cost_price,recyclable,country
+4/6/1997,193,High Top Limes,High Top,4,3.68,1.62,1.0,India
+7/22/1998,1446,Hermanos Golden Delcious Apples,Hermanos,2,1.26,0.4,,Nepal
+4/20/1998,173,High Top Asparagus,High Top,3,1.43,0.6,,Nepal
+5/25/1997,188,High Top Mushrooms,High Top,2,2.58,0.8,1.0,India
+8/27/1998,490,Tell Tale Green Pepper,Tell Tale,4,1.65,0.54,,UK
+5/20/1998,793,Ebony Summer Squash,Ebony,4,2.85,0.97,,USA
+11/29/1998,797,Ebony New Potatos,Ebony,2,2.19,0.83,1.0,Nepal
+8/24/1997,832,Ebony Fuji Apples,Ebony,2,3.24,1.1,,United Kingdom
+6/17/1998,1148,Tri-State Fuji Apples,Tri-State,4,2.69,0.83,,United States
+7/10/1998,490,Tell Tale Green Pepper,Tell Tale,2,1.65,0.54,,United Kingdom
+11/2/1998,489,Tell Tale Onions,Tell Tale,2,2.41,1.06,1.0,United States
+3/2/1998,813,Ebony Fresh Lima Beans,Ebony,4,1.45,0.49,1.0,United Kingdom
+6/26/1998,794,Ebony Corn on the Cob,Ebony,3,1.2,0.43,,Nepal
+7/29/1998,186,High Top Cauliflower,High Top,1,2.23,1.05,,India
+12/11/1998,1134,Tri-State Macintosh Apples,Tri-State,3,1.82,0.67,1.0,UK
+6/5/1998,1448,Hermanos Lemons,Hermanos,4,3.94,1.62,,India
+7/7/1998,188,High Top Mushrooms,High Top,3,2.58,0.8,1.0,UK
+5/12/1998,818,Ebony Macintosh Apples,Ebony,4,1.35,0.45,1.0,Nepal
+11/30/1998,823,Ebony Plums,Ebony,3,3.43,1.51,1.0,USA
+5/19/1998,213,High Top Tangerines,High Top,3,0.56,0.19,1.0,UK
+2/18/1997,201,High Top Plums,High Top,3,2.25,0.88,,India
+9/7/1998,1111,Tri-State Asparagus,Tri-State,4,0.78,0.25,1.0,India
+9/25/1998,1152,Tri-State Party Nuts,Tri-State,3,2.63,1.0,1.0,United Kingdom
+8/24/1997,832,Ebony Fuji Apples,Ebony,3,3.24,1.1,,United States
+1/12/1998,801,Ebony Green Pepper,Ebony,3,2.65,1.25,,India
+1/28/1998,523,Tell Tale Oranges,Tell Tale,5,1.72,0.71,,Nepal
+7/8/1998,1116,Tri-State Onions,Tri-State,2,2.53,0.83,1.0,United Kingdom
+10/26/1998,1460,Hermanos Walnuts,Hermanos,4,2.13,0.68,1.0,Nepal
+9/28/1998,1150,Tri-State Oranges,Tri-State,4,3.19,1.53,1.0,United Kingdom
+3/16/1997,520,Tell Tale Honey Dew,Tell Tale,3,2.8,1.34,1.0,UK
+12/14/1998,808,Ebony Cauliflower,Ebony,2,1.39,0.53,1.0,United Kingdom
+4/9/1997,185,High Top Potatos,High Top,3,0.57,0.22,1.0,United States
+1/10/1998,184,High Top Garlic,High Top,4,3.4,1.67,1.0,UK
+1/17/1997,1111,Tri-State Asparagus,Tri-State,2,0.78,0.25,1.0,United Kingdom
+5/21/1998,1426,Hermanos Prepared Salad,Hermanos,2,3.74,1.76,,Nepal
+2/22/1998,500,Tell Tale Baby Onion,Tell Tale,3,2.66,1.28,,UK
+3/10/1998,829,Ebony Sweet Onion,Ebony,2,2.17,0.91,,Nepal
+10/12/1998,208,High Top Cantelope,High Top,1,2.47,1.11,1.0,USA
+9/16/1998,508,Tell Tale Golden Delcious Apples,Tell Tale,2,3.79,1.36,1.0,Nepal
+7/30/1998,1437,Hermanos Mushrooms,Hermanos,3,1.74,0.73,,India
+1/13/1997,1449,Hermanos Fancy Plums,Hermanos,4,0.87,0.31,1.0,United States
+8/2/1997,822,Ebony Fancy Plums,Ebony,3,1.86,0.67,,United Kingdom
+6/25/1998,194,High Top Firm Tofu,High Top,3,3.36,1.28,1.0,Nepal
+10/15/1998,817,Ebony Almonds,Ebony,5,1.68,0.57,1.0,Nepal
+10/2/1998,508,Tell Tale Golden Delcious Apples,Tell Tale,4,3.79,1.36,1.0,USA
+4/14/1997,1126,Tri-State Mushrooms,Tri-State,3,1.16,0.42,1.0,India
+6/14/1998,834,Ebony Oranges,Ebony,3,2.96,0.92,,UK
+5/5/1997,1118,Tri-State Shitake Mushrooms,Tri-State,3,2.93,1.44,1.0,India
+6/15/1998,188,High Top Mushrooms,High Top,3,2.58,0.8,1.0,USA
+1/3/1998,1129,Tri-State Fresh Lima Beans,Tri-State,2,2.43,0.95,1.0,USA
+1/29/1997,488,Tell Tale Prepared Salad,Tell Tale,2,2.59,1.3,1.0,India
+7/21/1998,1431,Hermanos Elephant Garlic,Hermanos,4,2.82,0.87,1.0,India
+10/28/1998,1122,Tri-State Garlic,Tri-State,4,0.74,0.32,1.0,United Kingdom
+2/17/1998,202,High Top Peaches,High Top,5,1.49,0.7,,India
+3/21/1997,1460,Hermanos Walnuts,Hermanos,3,2.13,0.68,1.0,Nepal
+1/19/1998,492,Tell Tale Lettuce,Tell Tale,2,1.77,0.58,,Nepal
+4/9/1998,1431,Hermanos Elephant Garlic,Hermanos,5,2.82,0.87,1.0,India
+8/17/1998,831,Ebony Honey Dew,Ebony,3,1.58,0.71,,United States
+5/11/1998,519,Tell Tale Cantelope,Tell Tale,3,3.82,1.8,1.0,USA
+3/10/1997,1136,Tri-State Red Delcious Apples,Tri-State,3,3.61,1.77,1.0,United Kingdom
+7/6/1997,177,High Top Prepared Salad,High Top,3,1.66,0.81,,USA
+3/6/1998,812,Ebony Dried Mushrooms,Ebony,2,3.34,1.47,1.0,United States
+1/4/1998,489,Tell Tale Onions,Tell Tale,3,2.41,1.06,1.0,Nepal
+10/9/1998,511,Tell Tale Fancy Plums,Tell Tale,3,0.68,0.34,,Nepal
+3/9/1998,520,Tell Tale Honey Dew,Tell Tale,4,2.8,1.34,1.0,India
+3/19/1998,1150,Tri-State Oranges,Tri-State,4,3.19,1.53,1.0,India
+11/15/1997,1126,Tri-State Mushrooms,Tri-State,3,1.16,0.42,1.0,USA
+12/4/1998,1422,Hermanos Asparagus,Hermanos,3,2.23,1.12,1.0,Nepal
+1/7/1997,1128,Tri-State Dried Mushrooms,Tri-State,4,2.61,1.04,1.0,Nepal
+4/10/1998,1124,Tri-State Cauliflower,Tri-State,4,0.81,0.41,1.0,United States
+11/11/1998,179,High Top Green Pepper,High Top,2,2.75,0.88,,India
+5/13/1998,1115,Tri-State Prepared Salad,Tri-State,2,2.5,0.9,1.0,Nepal
+6/4/1998,1122,Tri-State Garlic,Tri-State,4,0.74,0.32,1.0,UK
+3/28/1998,1453,Hermanos Mandarin Oranges,Hermanos,3,3.11,1.49,1.0,United Kingdom
+1/4/1998,500,Tell Tale Baby Onion,Tell Tale,4,2.66,1.28,,Nepal
+9/3/1997,1131,Tri-State Limes,Tri-State,2,2.4,1.08,,United States
+12/27/1997,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,United Kingdom
+10/1/1998,1109,Tri-State Summer Squash,Tri-State,3,0.55,0.24,,UK
+12/8/1998,522,Tell Tale Walnuts,Tell Tale,2,1.63,0.57,1.0,India
+4/7/1998,514,Tell Tale Broccoli,Tell Tale,2,1.81,0.65,1.0,India
+6/18/1997,1461,Hermanos Oranges,Hermanos,3,2.56,1.18,1.0,USA
+1/30/1998,182,High Top Elephant Garlic,High Top,2,1.84,0.66,,United States
+11/27/1998,1127,Tri-State Baby Onion,Tri-State,4,2.62,1.02,,India
+5/19/1998,1441,Hermanos Squash,Hermanos,4,1.31,0.64,1.0,India
+4/4/1998,1119,Tri-State Lettuce,Tri-State,3,3.17,1.55,1.0,United Kingdom
+2/3/1997,1455,Hermanos Canned Peanuts,Hermanos,4,2.53,1.11,1.0,India
+6/20/1998,178,High Top Onions,High Top,3,1.33,0.41,1.0,India
+1/10/1998,809,Ebony Tomatos,Ebony,4,1.22,0.4,1.0,India
+11/28/1998,1132,Tri-State Firm Tofu,Tri-State,3,1.66,0.51,,USA
+7/3/1997,485,Tell Tale Sweet Peas,Tell Tale,4,2.19,0.83,,United Kingdom
+11/2/1998,1450,Hermanos Plums,Hermanos,4,2.77,1.3,1.0,United States
+11/14/1997,1133,Tri-State Almonds,Tri-State,4,1.54,0.6,1.0,USA
+6/10/1998,1117,Tri-State Green Pepper,Tri-State,4,3.64,1.42,1.0,United States
+9/10/1997,1439,Hermanos Dried Mushrooms,Hermanos,4,1.5,0.75,,Nepal
+2/2/1998,517,Tell Tale Canned Peanuts,Tell Tale,3,3.4,1.63,,UK
+1/4/1998,180,High Top Shitake Mushrooms,High Top,4,0.69,0.32,,Nepal
+12/11/1998,182,High Top Elephant Garlic,High Top,4,1.84,0.66,,Nepal
+12/10/1998,202,High Top Peaches,High Top,3,1.49,0.7,,USA
+6/20/1998,808,Ebony Cauliflower,Ebony,4,1.39,0.53,1.0,United Kingdom
+6/2/1998,1433,Hermanos Garlic,Hermanos,3,2.63,1.32,,Nepal
+8/26/1997,199,High Top Lemons,High Top,3,1.67,0.73,1.0,United Kingdom
+5/17/1997,194,High Top Firm Tofu,High Top,1,3.36,1.28,1.0,Nepal
+12/10/1997,208,High Top Cantelope,High Top,3,2.47,1.11,1.0,India
+3/4/1997,497,Tell Tale Cauliflower,Tell Tale,3,1.87,0.64,1.0,India
+1/7/1998,523,Tell Tale Oranges,Tell Tale,3,1.72,0.71,,United States
+12/20/1998,211,High Top Walnuts,High Top,3,2.72,1.22,1.0,Nepal
+12/17/1998,208,High Top Cantelope,High Top,3,2.47,1.11,1.0,UK
+12/8/1998,196,High Top Macintosh Apples,High Top,4,2.47,0.79,1.0,India
+12/17/1998,1430,Hermanos Lettuce,Hermanos,4,3.36,1.18,1.0,Nepal
+10/29/1998,499,Tell Tale Mushrooms,Tell Tale,3,2.96,1.42,1.0,UK
+8/24/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,India
+10/15/1998,1454,Hermanos Mixed Nuts,Hermanos,3,3.39,1.15,1.0,United States
+2/22/1997,522,Tell Tale Walnuts,Tell Tale,3,1.63,0.57,1.0,India
+5/22/1998,1441,Hermanos Squash,Hermanos,3,1.31,0.64,1.0,USA
+4/9/1997,1430,Hermanos Lettuce,Hermanos,3,3.36,1.18,1.0,United States
+1/6/1998,503,Tell Tale Squash,Tell Tale,4,1.86,0.89,,Nepal
+12/25/1997,1427,Hermanos Onions,Hermanos,3,3.27,1.34,1.0,USA
+2/12/1998,204,High Top Mandarin Oranges,High Top,5,1.6,0.62,,Nepal
+12/7/1997,830,Ebony Cantelope,Ebony,3,2.45,0.96,,USA
+10/7/1997,815,Ebony Limes,Ebony,2,0.92,0.44,,India
+8/11/1998,806,Ebony Garlic,Ebony,3,2.6,1.12,1.0,UK
+8/22/1998,796,Ebony Sweet Peas,Ebony,3,1.32,0.5,1.0,Nepal
+9/10/1998,1113,Tri-State New Potatos,Tri-State,3,0.67,0.25,,Nepal
+12/7/1997,1431,Hermanos Elephant Garlic,Hermanos,4,2.82,0.87,1.0,USA
+2/1/1998,1446,Hermanos Golden Delcious Apples,Hermanos,3,1.26,0.4,,Nepal
+6/19/1998,506,Tell Tale Almonds,Tell Tale,4,3.68,1.14,1.0,United States
+8/25/1997,201,High Top Plums,High Top,4,2.25,0.88,,Nepal
+7/19/1998,176,High Top Beets,High Top,4,2.27,0.75,1.0,UK
+5/6/1998,1117,Tri-State Green Pepper,Tri-State,3,3.64,1.42,1.0,UK
+7/27/1997,1450,Hermanos Plums,Hermanos,3,2.77,1.3,1.0,Nepal
+5/16/1997,493,Tell Tale Elephant Garlic,Tell Tale,3,2.64,0.9,1.0,United States
+11/21/1997,206,High Top Canned Peanuts,High Top,2,2.11,0.89,,India
+9/14/1998,1133,Tri-State Almonds,Tri-State,3,1.54,0.6,1.0,India
+8/13/1998,1144,Tri-State Canned Peanuts,Tri-State,3,0.85,0.31,1.0,United Kingdom
+2/19/1998,820,Ebony Red Delcious Apples,Ebony,2,0.7,0.3,,Nepal
+12/7/1997,797,Ebony New Potatos,Ebony,4,2.19,0.83,1.0,United States
+10/28/1998,193,High Top Limes,High Top,2,3.68,1.62,1.0,India
+11/9/1998,499,Tell Tale Mushrooms,Tell Tale,3,2.96,1.42,1.0,India
+4/30/1998,178,High Top Onions,High Top,3,1.33,0.41,1.0,India
+5/23/1997,820,Ebony Red Delcious Apples,Ebony,3,0.7,0.3,,United Kingdom
+11/8/1998,836,Ebony Party Nuts,Ebony,2,1.18,0.45,1.0,United Kingdom
+12/21/1997,504,Tell Tale Limes,Tell Tale,3,1.84,0.77,1.0,Nepal
+12/1/1998,207,High Top Sweet Onion,High Top,2,1.24,0.55,1.0,Nepal
+6/20/1997,1125,Tri-State Tomatos,Tri-State,3,2.21,0.82,1.0,United Kingdom
+10/14/1997,1111,Tri-State Asparagus,Tri-State,3,0.78,0.25,1.0,United States
+11/1/1998,1111,Tri-State Asparagus,Tri-State,3,0.78,0.25,1.0,United States
+8/12/1998,804,Ebony Elephant Garlic,Ebony,4,2.21,1.04,,Nepal
+2/3/1997,1428,Hermanos Green Pepper,Hermanos,3,3.86,1.27,,UK
+2/9/1998,1456,Hermanos Sweet Onion,Hermanos,3,1.83,0.73,1.0,Nepal
+7/3/1997,1114,Tri-State Beets,Tri-State,4,3.42,1.2,1.0,Nepal
+1/10/1997,1139,Tri-State Plums,Tri-State,3,2.86,1.4,1.0,India
+8/27/1998,799,Ebony Prepared Salad,Ebony,3,2.84,1.28,1.0,Nepal
+4/7/1998,798,Ebony Beets,Ebony,4,2.71,0.84,,United Kingdom
+5/9/1997,194,High Top Firm Tofu,High Top,3,3.36,1.28,1.0,India
+12/4/1997,182,High Top Elephant Garlic,High Top,2,1.84,0.66,,India
+12/27/1997,173,High Top Asparagus,High Top,3,1.43,0.6,,India
+12/22/1997,1446,Hermanos Golden Delcious Apples,Hermanos,3,1.26,0.4,,USA
+10/26/1998,1449,Hermanos Fancy Plums,Hermanos,4,0.87,0.31,1.0,Nepal
+4/27/1998,1152,Tri-State Party Nuts,Tri-State,3,2.63,1.0,1.0,India
+4/12/1998,507,Tell Tale Macintosh Apples,Tell Tale,4,2.53,1.04,1.0,UK
+9/3/1998,1129,Tri-State Fresh Lima Beans,Tri-State,3,2.43,0.95,1.0,United States
+2/14/1997,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,United Kingdom
+10/10/1997,181,High Top Lettuce,High Top,3,0.93,0.35,,Nepal
+12/3/1997,1439,Hermanos Dried Mushrooms,Hermanos,2,1.5,0.75,,United Kingdom
+9/22/1998,1113,Tri-State New Potatos,Tri-State,4,0.67,0.25,,USA
+11/30/1998,185,High Top Potatos,High Top,4,0.57,0.22,1.0,UK
+12/5/1998,518,Tell Tale Sweet Onion,Tell Tale,4,1.36,0.68,,India
+4/30/1998,802,Ebony Shitake Mushrooms,Ebony,4,2.99,1.38,1.0,United Kingdom
+11/4/1998,202,High Top Peaches,High Top,3,1.49,0.7,,United States
+12/11/1998,1461,Hermanos Oranges,Hermanos,3,2.56,1.18,1.0,Nepal
+7/13/1998,834,Ebony Oranges,Ebony,4,2.96,0.92,,India
+8/8/1998,1424,Hermanos New Potatos,Hermanos,3,3.91,1.25,1.0,United States
+11/7/1997,1147,Tri-State Honey Dew,Tri-State,3,1.42,0.44,,United States
+9/25/1998,498,Tell Tale Tomatos,Tell Tale,3,2.55,1.22,1.0,USA
+7/10/1997,1122,Tri-State Garlic,Tri-State,2,0.74,0.32,1.0,UK
+3/21/1997,487,Tell Tale Beets,Tell Tale,3,2.6,1.17,,Nepal
+10/6/1998,1145,Tri-State Sweet Onion,Tri-State,2,1.57,0.55,,Nepal
+12/13/1998,213,High Top Tangerines,High Top,4,0.56,0.19,1.0,UK
+4/29/1998,1463,Hermanos Party Nuts,Hermanos,4,1.98,0.75,1.0,UK
+10/7/1998,213,High Top Tangerines,High Top,4,0.56,0.19,1.0,UK
+2/6/1998,182,High Top Elephant Garlic,High Top,3,1.84,0.66,,India
+11/19/1998,1127,Tri-State Baby Onion,Tri-State,2,2.62,1.02,,United States
+4/2/1998,507,Tell Tale Macintosh Apples,Tell Tale,4,2.53,1.04,1.0,Nepal
+2/25/1998,515,Tell Tale Mandarin Oranges,Tell Tale,2,1.91,0.9,,United States
+5/29/1998,1139,Tri-State Plums,Tri-State,3,2.86,1.4,1.0,United Kingdom
+4/6/1998,1445,Hermanos Macintosh Apples,Hermanos,3,0.74,0.27,,United States
+9/9/1997,185,High Top Potatos,High Top,1,0.57,0.22,1.0,UK
+2/12/1998,835,Ebony Tangerines,Ebony,3,3.49,1.64,,UK
+9/8/1998,1434,Hermanos Potatos,Hermanos,4,0.93,0.47,1.0,Nepal
+6/12/1997,1436,Hermanos Tomatos,Hermanos,3,0.92,0.37,1.0,UK
+11/13/1997,176,High Top Beets,High Top,3,2.27,0.75,1.0,United States
+11/3/1998,214,High Top Party Nuts,High Top,3,2.82,1.07,1.0,Nepal
+11/6/1998,179,High Top Green Pepper,High Top,3,2.75,0.88,,UK
+6/8/1998,505,Tell Tale Firm Tofu,Tell Tale,4,1.67,0.8,,United Kingdom
+11/27/1998,799,Ebony Prepared Salad,Ebony,2,2.84,1.28,1.0,India
+1/10/1998,503,Tell Tale Squash,Tell Tale,4,1.86,0.89,,India
+2/14/1997,1451,Hermanos Peaches,Hermanos,4,1.62,0.63,1.0,UK
+9/16/1998,177,High Top Prepared Salad,High Top,4,1.66,0.81,,India
+2/6/1998,500,Tell Tale Baby Onion,Tell Tale,3,2.66,1.28,,India
+11/18/1997,1145,Tri-State Sweet Onion,Tri-State,3,1.57,0.55,,United States
+6/29/1998,505,Tell Tale Firm Tofu,Tell Tale,5,1.67,0.8,,Nepal
+8/8/1998,1134,Tri-State Macintosh Apples,Tri-State,3,1.82,0.67,1.0,Nepal
+6/29/1998,196,High Top Macintosh Apples,High Top,4,2.47,0.79,1.0,Nepal
+8/2/1998,800,Ebony Onions,Ebony,2,3.26,1.43,1.0,Nepal
+11/7/1998,1143,Tri-State Mixed Nuts,Tri-State,4,1.76,0.69,,UK
+1/22/1998,1124,Tri-State Cauliflower,Tri-State,3,0.81,0.41,1.0,UK
+12/6/1998,1110,Tri-State Corn on the Cob,Tri-State,3,2.8,1.32,,India
+1/17/1998,514,Tell Tale Broccoli,Tell Tale,2,1.81,0.65,1.0,India
+12/9/1998,835,Ebony Tangerines,Ebony,4,3.49,1.64,,India
+7/25/1998,1130,Tri-State Squash,Tri-State,4,1.55,0.56,1.0,USA
+9/27/1997,1451,Hermanos Peaches,Hermanos,3,1.62,0.63,1.0,Nepal
+10/29/1998,1143,Tri-State Mixed Nuts,Tri-State,3,1.76,0.69,,United Kingdom
+5/5/1997,493,Tell Tale Elephant Garlic,Tell Tale,3,2.64,0.9,1.0,United States
+12/3/1998,504,Tell Tale Limes,Tell Tale,4,1.84,0.77,1.0,USA
+5/6/1998,1137,Tri-State Lemons,Tri-State,3,1.77,0.64,,USA
+8/4/1997,183,High Top Red Pepper,High Top,4,2.41,1.04,1.0,UK
+11/24/1998,1142,Tri-State Mandarin Oranges,Tri-State,4,2.95,1.36,,Nepal
+8/14/1997,510,Tell Tale Lemons,Tell Tale,3,0.61,0.27,1.0,USA
+3/27/1998,187,High Top Tomatos,High Top,2,1.32,0.42,,USA
+3/23/1998,834,Ebony Oranges,Ebony,4,2.96,0.92,,United States
+2/14/1998,808,Ebony Cauliflower,Ebony,3,1.39,0.53,1.0,Nepal
+2/9/1998,1125,Tri-State Tomatos,Tri-State,3,2.21,0.82,1.0,UK
+11/7/1997,1451,Hermanos Peaches,Hermanos,4,1.62,0.63,1.0,United States
+9/29/1997,1446,Hermanos Golden Delcious Apples,Hermanos,5,1.26,0.4,,United States
+2/26/1998,1118,Tri-State Shitake Mushrooms,Tri-State,2,2.93,1.44,1.0,United Kingdom
+3/21/1997,1441,Hermanos Squash,Hermanos,2,1.31,0.64,1.0,United Kingdom
+1/2/1997,511,Tell Tale Fancy Plums,Tell Tale,3,0.68,0.34,,United States
+11/18/1997,798,Ebony Beets,Ebony,2,2.71,0.84,,United Kingdom
+9/19/1998,814,Ebony Squash,Ebony,2,1.73,0.83,,UK
+2/21/1997,1430,Hermanos Lettuce,Hermanos,3,3.36,1.18,1.0,United States
+10/6/1998,1449,Hermanos Fancy Plums,Hermanos,2,0.87,0.31,1.0,United Kingdom
+7/2/1998,831,Ebony Honey Dew,Ebony,2,1.58,0.71,,India
+1/21/1998,204,High Top Mandarin Oranges,High Top,3,1.6,0.62,,USA
+8/15/1997,819,Ebony Golden Delcious Apples,Ebony,4,2.77,0.97,1.0,UK
+5/17/1998,482,Tell Tale Summer Squash,Tell Tale,2,0.73,0.36,,Nepal
+8/8/1998,503,Tell Tale Squash,Tell Tale,3,1.86,0.89,,India
+12/25/1997,498,Tell Tale Tomatos,Tell Tale,3,2.55,1.22,1.0,United States
+11/16/1997,184,High Top Garlic,High Top,4,3.4,1.67,1.0,Nepal
+6/29/1998,182,High Top Elephant Garlic,High Top,3,1.84,0.66,,USA
+1/20/1998,1445,Hermanos Macintosh Apples,Hermanos,3,0.74,0.27,,India
+6/3/1997,1454,Hermanos Mixed Nuts,Hermanos,3,3.39,1.15,1.0,USA
+5/25/1998,813,Ebony Fresh Lima Beans,Ebony,4,1.45,0.49,1.0,India
+6/10/1997,793,Ebony Summer Squash,Ebony,1,2.85,0.97,,United Kingdom
+5/29/1998,830,Ebony Cantelope,Ebony,2,2.45,0.96,,India
+11/16/1997,482,Tell Tale Summer Squash,Tell Tale,2,0.73,0.36,,India
+2/21/1997,1123,Tri-State Potatos,Tri-State,2,1.96,0.92,,UK
+9/5/1998,824,Ebony Peaches,Ebony,3,2.11,0.93,1.0,United Kingdom
+1/22/1998,836,Ebony Party Nuts,Ebony,3,1.18,0.45,1.0,United Kingdom
+8/10/1998,192,High Top Squash,High Top,3,1.52,0.61,,United States
+9/29/1998,1143,Tri-State Mixed Nuts,Tri-State,3,1.76,0.69,,India
+1/21/1997,803,Ebony Lettuce,Ebony,3,3.51,1.65,,Nepal
+12/18/1997,1127,Tri-State Baby Onion,Tri-State,3,2.62,1.02,,Nepal
+5/8/1998,181,High Top Lettuce,High Top,4,0.93,0.35,,India
+5/23/1997,1120,Tri-State Elephant Garlic,Tri-State,3,1.71,0.86,,Nepal
+1/10/1998,819,Ebony Golden Delcious Apples,Ebony,4,2.77,0.97,1.0,India
+10/28/1998,184,High Top Garlic,High Top,5,3.4,1.67,1.0,UK
+3/2/1998,1145,Tri-State Sweet Onion,Tri-State,3,1.57,0.55,,India
+2/17/1998,520,Tell Tale Honey Dew,Tell Tale,4,2.8,1.34,1.0,USA
+2/4/1997,486,Tell Tale New Potatos,Tell Tale,4,1.14,0.51,1.0,UK
+8/23/1998,510,Tell Tale Lemons,Tell Tale,3,0.61,0.27,1.0,United States
+1/5/1998,807,Ebony Potatos,Ebony,2,1.41,0.55,,India
+11/21/1997,802,Ebony Shitake Mushrooms,Ebony,3,2.99,1.38,1.0,United Kingdom
+11/25/1997,1124,Tri-State Cauliflower,Tri-State,2,0.81,0.41,1.0,USA
+12/16/1997,814,Ebony Squash,Ebony,3,1.73,0.83,,United Kingdom
+2/25/1998,793,Ebony Summer Squash,Ebony,4,2.85,0.97,,United Kingdom
+7/9/1997,512,Tell Tale Plums,Tell Tale,4,2.74,1.26,,USA
+1/11/1997,809,Ebony Tomatos,Ebony,3,1.22,0.4,1.0,United States
+5/8/1997,502,Tell Tale Fresh Lima Beans,Tell Tale,3,3.17,1.24,1.0,United Kingdom
+11/22/1998,1115,Tri-State Prepared Salad,Tri-State,4,2.5,0.9,1.0,India
+1/1/1997,209,High Top Honey Dew,High Top,1,1.87,0.58,1.0,India
+10/22/1997,502,Tell Tale Fresh Lima Beans,Tell Tale,2,3.17,1.24,1.0,Nepal
+6/19/1997,1420,Hermanos Summer Squash,Hermanos,2,1.73,0.8,,USA
+10/28/1998,1112,Tri-State Sweet Peas,Tri-State,4,3.58,1.43,,USA
+4/18/1998,807,Ebony Potatos,Ebony,4,1.41,0.55,,USA
+5/21/1997,833,Ebony Walnuts,Ebony,4,2.39,1.15,,Nepal
+2/14/1997,821,Ebony Lemons,Ebony,2,1.91,0.78,1.0,India
+7/13/1998,509,Tell Tale Red Delcious Apples,Tell Tale,3,1.9,0.67,1.0,Nepal
+11/28/1998,1448,Hermanos Lemons,Hermanos,3,3.94,1.62,,India
+2/3/1998,1147,Tri-State Honey Dew,Tri-State,4,1.42,0.44,,United States
+11/23/1998,205,High Top Mixed Nuts,High Top,2,2.71,1.25,1.0,United States
+4/9/1998,493,Tell Tale Elephant Garlic,Tell Tale,4,2.64,0.9,1.0,United Kingdom
+12/10/1997,524,Tell Tale Tangerines,Tell Tale,3,1.74,0.87,,USA
+11/5/1998,1448,Hermanos Lemons,Hermanos,5,3.94,1.62,,India
+6/19/1997,210,High Top Fuji Apples,High Top,4,1.54,0.55,,Nepal
+9/14/1998,814,Ebony Squash,Ebony,3,1.73,0.83,,Nepal
+7/6/1997,1423,Hermanos Sweet Peas,Hermanos,3,2.37,1.11,,United Kingdom
+4/17/1998,804,Ebony Elephant Garlic,Ebony,3,2.21,1.04,,UK
+11/13/1998,510,Tell Tale Lemons,Tell Tale,2,0.61,0.27,1.0,United Kingdom
+9/7/1997,179,High Top Green Pepper,High Top,4,2.75,0.88,,United States
+12/15/1998,495,Tell Tale Garlic,Tell Tale,3,1.17,0.48,1.0,UK
+5/26/1997,522,Tell Tale Walnuts,Tell Tale,4,1.63,0.57,1.0,United States
+12/25/1997,815,Ebony Limes,Ebony,4,0.92,0.44,,United Kingdom
+1/12/1998,799,Ebony Prepared Salad,Ebony,2,2.84,1.28,1.0,Nepal
+5/14/1998,1429,Hermanos Shitake Mushrooms,Hermanos,2,2.4,1.2,1.0,United States
+3/11/1998,827,Ebony Mixed Nuts,Ebony,4,0.95,0.35,1.0,India
+5/9/1997,1436,Hermanos Tomatos,Hermanos,2,0.92,0.37,1.0,India
+4/12/1997,1117,Tri-State Green Pepper,Tri-State,4,3.64,1.42,1.0,Nepal
+11/23/1998,183,High Top Red Pepper,High Top,2,2.41,1.04,1.0,United Kingdom
+8/27/1998,807,Ebony Potatos,Ebony,4,1.41,0.55,,India
+9/6/1998,1450,Hermanos Plums,Hermanos,2,2.77,1.3,1.0,United Kingdom
+7/23/1997,206,High Top Canned Peanuts,High Top,3,2.11,0.89,,United Kingdom
+7/6/1997,1443,Hermanos Firm Tofu,Hermanos,4,2.17,0.87,1.0,United Kingdom
+11/6/1998,1445,Hermanos Macintosh Apples,Hermanos,3,0.74,0.27,,United States
+9/2/1998,1462,Hermanos Tangerines,Hermanos,4,0.73,0.23,,Nepal
+8/13/1998,485,Tell Tale Sweet Peas,Tell Tale,4,2.19,0.83,,Nepal
+12/4/1998,1452,Hermanos Broccoli,Hermanos,4,2.89,1.39,,United Kingdom
+7/25/1998,1126,Tri-State Mushrooms,Tri-State,3,1.16,0.42,1.0,United Kingdom
+12/7/1998,510,Tell Tale Lemons,Tell Tale,2,0.61,0.27,1.0,Nepal
+3/14/1997,192,High Top Squash,High Top,3,1.52,0.61,,India
+5/12/1998,190,High Top Dried Mushrooms,High Top,4,3.74,1.5,1.0,India
+8/12/1998,522,Tell Tale Walnuts,Tell Tale,3,1.63,0.57,1.0,Nepal
+7/12/1998,521,Tell Tale Fuji Apples,Tell Tale,3,3.63,1.52,1.0,Nepal
+8/16/1997,803,Ebony Lettuce,Ebony,2,3.51,1.65,,Nepal
+9/4/1998,1150,Tri-State Oranges,Tri-State,3,3.19,1.53,1.0,UK
+11/18/1998,1127,Tri-State Baby Onion,Tri-State,3,2.62,1.02,,India
+7/23/1997,190,High Top Dried Mushrooms,High Top,2,3.74,1.5,1.0,India
+1/17/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,Nepal
+12/6/1997,1461,Hermanos Oranges,Hermanos,3,2.56,1.18,1.0,Nepal
+9/29/1997,1432,Hermanos Red Pepper,Hermanos,4,1.8,0.59,,Nepal
+2/1/1998,1448,Hermanos Lemons,Hermanos,2,3.94,1.62,,United Kingdom
+5/16/1997,823,Ebony Plums,Ebony,3,3.43,1.51,1.0,India
+1/12/1997,1446,Hermanos Golden Delcious Apples,Hermanos,4,1.26,0.4,,Nepal
+5/5/1998,211,High Top Walnuts,High Top,3,2.72,1.22,1.0,UK
+4/22/1998,798,Ebony Beets,Ebony,2,2.71,0.84,,United Kingdom
+1/19/1998,497,Tell Tale Cauliflower,Tell Tale,3,1.87,0.64,1.0,UK
+4/16/1998,184,High Top Garlic,High Top,2,3.4,1.67,1.0,India
+4/30/1998,813,Ebony Fresh Lima Beans,Ebony,5,1.45,0.49,1.0,Nepal
+5/24/1998,833,Ebony Walnuts,Ebony,3,2.39,1.15,,USA
+4/5/1998,485,Tell Tale Sweet Peas,Tell Tale,3,2.19,0.83,,UK
+7/2/1997,1124,Tri-State Cauliflower,Tri-State,2,0.81,0.41,1.0,Nepal
+7/13/1998,1435,Hermanos Cauliflower,Hermanos,3,2.72,1.25,,India
+9/2/1997,1420,Hermanos Summer Squash,Hermanos,3,1.73,0.8,,Nepal
+10/9/1998,1445,Hermanos Macintosh Apples,Hermanos,1,0.74,0.27,,India
+10/4/1998,191,High Top Fresh Lima Beans,High Top,3,2.87,1.06,1.0,Nepal
+10/13/1997,501,Tell Tale Dried Mushrooms,Tell Tale,2,1.45,0.7,1.0,UK
+1/4/1998,1134,Tri-State Macintosh Apples,Tri-State,3,1.82,0.67,1.0,Nepal
+5/23/1998,519,Tell Tale Cantelope,Tell Tale,2,3.82,1.8,1.0,Nepal
+4/7/1997,1146,Tri-State Cantelope,Tri-State,3,2.57,0.98,1.0,United Kingdom
+9/19/1997,1440,Hermanos Fresh Lima Beans,Hermanos,1,2.81,1.1,,United Kingdom
+2/3/1997,1113,Tri-State New Potatos,Tri-State,3,0.67,0.25,,USA
+4/30/1998,797,Ebony New Potatos,Ebony,3,2.19,0.83,1.0,USA
+5/17/1997,194,High Top Firm Tofu,High Top,3,3.36,1.28,1.0,India
+1/29/1997,501,Tell Tale Dried Mushrooms,Tell Tale,4,1.45,0.7,1.0,USA
+6/14/1998,800,Ebony Onions,Ebony,3,3.26,1.43,1.0,Nepal
+9/23/1997,808,Ebony Cauliflower,Ebony,3,1.39,0.53,1.0,United Kingdom
+1/19/1997,1112,Tri-State Sweet Peas,Tri-State,3,3.58,1.43,,India
+3/14/1997,494,Tell Tale Red Pepper,Tell Tale,3,1.93,0.81,1.0,UK
+9/22/1998,805,Ebony Red Pepper,Ebony,4,2.88,1.12,,USA
+2/17/1998,501,Tell Tale Dried Mushrooms,Tell Tale,4,1.45,0.7,1.0,United States
+4/25/1998,212,High Top Oranges,High Top,3,1.66,0.58,,India
+2/8/1998,1436,Hermanos Tomatos,Hermanos,2,0.92,0.37,1.0,United States
+9/29/1998,1149,Tri-State Walnuts,Tri-State,3,0.88,0.39,,Nepal
+10/19/1998,1112,Tri-State Sweet Peas,Tri-State,4,3.58,1.43,,Nepal
+3/7/1998,182,High Top Elephant Garlic,High Top,1,1.84,0.66,,India
+3/5/1998,171,High Top Summer Squash,High Top,3,2.95,1.27,,Nepal
+12/26/1998,807,Ebony Potatos,Ebony,4,1.41,0.55,,United States
+3/25/1998,1111,Tri-State Asparagus,Tri-State,4,0.78,0.25,1.0,United States
+11/2/1998,484,Tell Tale Asparagus,Tell Tale,3,3.64,1.82,,United Kingdom
+11/25/1998,199,High Top Lemons,High Top,3,1.67,0.73,1.0,UK
+2/9/1998,813,Ebony Fresh Lima Beans,Ebony,3,1.45,0.49,1.0,UK
+3/12/1998,819,Ebony Golden Delcious Apples,Ebony,3,2.77,0.97,1.0,India
+4/8/1998,1117,Tri-State Green Pepper,Tri-State,4,3.64,1.42,1.0,India
+12/12/1998,1124,Tri-State Cauliflower,Tri-State,4,0.81,0.41,1.0,India
+3/10/1998,1427,Hermanos Onions,Hermanos,2,3.27,1.34,1.0,UK
+11/29/1998,191,High Top Fresh Lima Beans,High Top,4,2.87,1.06,1.0,USA
+3/15/1997,801,Ebony Green Pepper,Ebony,3,2.65,1.25,,India
+12/2/1998,1109,Tri-State Summer Squash,Tri-State,4,0.55,0.24,,United Kingdom
+6/13/1998,825,Ebony Broccoli,Ebony,3,2.83,0.96,1.0,India
+5/17/1998,1147,Tri-State Honey Dew,Tri-State,4,1.42,0.44,,Nepal
+5/11/1997,1452,Hermanos Broccoli,Hermanos,4,2.89,1.39,,UK
+8/17/1998,1125,Tri-State Tomatos,Tri-State,2,2.21,0.82,1.0,India
+12/26/1997,502,Tell Tale Fresh Lima Beans,Tell Tale,3,3.17,1.24,1.0,United Kingdom
+3/24/1998,494,Tell Tale Red Pepper,Tell Tale,4,1.93,0.81,1.0,India
+3/5/1998,1125,Tri-State Tomatos,Tri-State,4,2.21,0.82,1.0,United Kingdom
+4/10/1998,830,Ebony Cantelope,Ebony,3,2.45,0.96,,Nepal
+6/18/1998,174,High Top Sweet Peas,High Top,2,1.71,0.62,1.0,United Kingdom
+10/12/1997,182,High Top Elephant Garlic,High Top,4,1.84,0.66,,UK
+11/21/1998,210,High Top Fuji Apples,High Top,3,1.54,0.55,,Nepal
+9/25/1998,494,Tell Tale Red Pepper,Tell Tale,2,1.93,0.81,1.0,India
+10/2/1997,1114,Tri-State Beets,Tri-State,4,3.42,1.2,1.0,Nepal
+10/29/1998,1455,Hermanos Canned Peanuts,Hermanos,3,2.53,1.11,1.0,Nepal
+4/4/1997,813,Ebony Fresh Lima Beans,Ebony,4,1.45,0.49,1.0,United Kingdom
+8/19/1998,808,Ebony Cauliflower,Ebony,4,1.39,0.53,1.0,USA
+8/8/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,UK
+4/26/1998,833,Ebony Walnuts,Ebony,3,2.39,1.15,,Nepal
+1/12/1998,1442,Hermanos Limes,Hermanos,2,1.64,0.72,,Nepal
+10/2/1998,813,Ebony Fresh Lima Beans,Ebony,3,1.45,0.49,1.0,India
+8/28/1998,517,Tell Tale Canned Peanuts,Tell Tale,4,3.4,1.63,,Nepal
+12/24/1998,1149,Tri-State Walnuts,Tri-State,4,0.88,0.39,,United States
+11/3/1997,806,Ebony Garlic,Ebony,3,2.6,1.12,1.0,Nepal
+9/29/1998,832,Ebony Fuji Apples,Ebony,3,3.24,1.1,,United States
+7/10/1998,811,Ebony Baby Onion,Ebony,3,2.97,0.95,1.0,India
+10/21/1997,177,High Top Prepared Salad,High Top,3,1.66,0.81,,USA
+11/22/1997,1142,Tri-State Mandarin Oranges,Tri-State,5,2.95,1.36,,USA
+6/17/1998,208,High Top Cantelope,High Top,3,2.47,1.11,1.0,India
+12/29/1998,804,Ebony Elephant Garlic,Ebony,3,2.21,1.04,,United States
+1/22/1998,515,Tell Tale Mandarin Oranges,Tell Tale,2,1.91,0.9,,United States
+3/25/1998,1453,Hermanos Mandarin Oranges,Hermanos,4,3.11,1.49,1.0,Nepal
+3/8/1998,491,Tell Tale Shitake Mushrooms,Tell Tale,3,3.51,1.47,1.0,USA
+4/12/1998,1114,Tri-State Beets,Tri-State,2,3.42,1.2,1.0,India
+5/14/1998,187,High Top Tomatos,High Top,3,1.32,0.42,,UK
+4/7/1998,207,High Top Sweet Onion,High Top,3,1.24,0.55,1.0,UK
+3/1/1997,1455,Hermanos Canned Peanuts,Hermanos,4,2.53,1.11,1.0,India
+12/21/1997,1448,Hermanos Lemons,Hermanos,4,3.94,1.62,,Nepal
+12/7/1998,177,High Top Prepared Salad,High Top,2,1.66,0.81,,United States
+9/11/1998,1116,Tri-State Onions,Tri-State,3,2.53,0.83,1.0,UK
+6/10/1998,500,Tell Tale Baby Onion,Tell Tale,2,2.66,1.28,,United States
+4/27/1997,1135,Tri-State Golden Delcious Apples,Tri-State,4,1.96,0.76,,United Kingdom
+5/12/1998,502,Tell Tale Fresh Lima Beans,Tell Tale,4,3.17,1.24,1.0,India
+2/13/1998,203,High Top Broccoli,High Top,4,0.63,0.2,1.0,USA
+10/21/1998,1450,Hermanos Plums,Hermanos,3,2.77,1.3,1.0,India
+9/28/1998,1421,Hermanos Corn on the Cob,Hermanos,3,2.84,1.39,,USA
+12/26/1997,521,Tell Tale Fuji Apples,Tell Tale,3,3.63,1.52,1.0,India
+11/7/1998,195,High Top Almonds,High Top,2,1.77,0.55,,United Kingdom
+4/24/1998,521,Tell Tale Fuji Apples,Tell Tale,2,3.63,1.52,1.0,Nepal
+7/7/1998,180,High Top Shitake Mushrooms,High Top,4,0.69,0.32,,USA
+10/23/1997,205,High Top Mixed Nuts,High Top,3,2.71,1.25,1.0,India
+11/21/1998,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,UK
+5/27/1998,499,Tell Tale Mushrooms,Tell Tale,4,2.96,1.42,1.0,India
+8/21/1998,492,Tell Tale Lettuce,Tell Tale,2,1.77,0.58,,USA
+8/3/1998,1136,Tri-State Red Delcious Apples,Tri-State,4,3.61,1.77,1.0,India
+3/5/1998,172,High Top Corn on the Cob,High Top,3,3.32,1.03,,United States
+8/18/1997,1460,Hermanos Walnuts,Hermanos,3,2.13,0.68,1.0,India
+3/28/1997,820,Ebony Red Delcious Apples,Ebony,4,0.7,0.3,,Nepal
+6/8/1998,1131,Tri-State Limes,Tri-State,2,2.4,1.08,,United Kingdom
+5/17/1998,1439,Hermanos Dried Mushrooms,Hermanos,2,1.5,0.75,,USA
+4/4/1997,1129,Tri-State Fresh Lima Beans,Tri-State,3,2.43,0.95,1.0,United States
+12/23/1998,1439,Hermanos Dried Mushrooms,Hermanos,4,1.5,0.75,,United Kingdom
+12/23/1998,206,High Top Canned Peanuts,High Top,3,2.11,0.89,,UK
+3/15/1998,1461,Hermanos Oranges,Hermanos,2,2.56,1.18,1.0,Nepal
+4/9/1998,521,Tell Tale Fuji Apples,Tell Tale,3,3.63,1.52,1.0,India
+11/6/1998,523,Tell Tale Oranges,Tell Tale,4,1.72,0.71,,Nepal
+11/28/1997,179,High Top Green Pepper,High Top,4,2.75,0.88,,United Kingdom
+2/4/1997,1449,Hermanos Fancy Plums,Hermanos,3,0.87,0.31,1.0,United States
+9/18/1997,499,Tell Tale Mushrooms,Tell Tale,4,2.96,1.42,1.0,India
+3/3/1998,1435,Hermanos Cauliflower,Hermanos,3,2.72,1.25,,India
+4/7/1998,794,Ebony Corn on the Cob,Ebony,4,1.2,0.43,,India
+11/12/1998,502,Tell Tale Fresh Lima Beans,Tell Tale,3,3.17,1.24,1.0,Nepal
+11/10/1997,1436,Hermanos Tomatos,Hermanos,3,0.92,0.37,1.0,Nepal
+7/23/1998,501,Tell Tale Dried Mushrooms,Tell Tale,3,1.45,0.7,1.0,United Kingdom
+10/7/1998,1137,Tri-State Lemons,Tri-State,3,1.77,0.64,,United States
+5/11/1998,793,Ebony Summer Squash,Ebony,3,2.85,0.97,,India
+12/4/1998,1433,Hermanos Garlic,Hermanos,3,2.63,1.32,,Nepal
+3/10/1998,1142,Tri-State Mandarin Oranges,Tri-State,3,2.95,1.36,,India
+8/3/1998,198,High Top Red Delcious Apples,High Top,2,0.92,0.31,1.0,India
+12/17/1998,515,Tell Tale Mandarin Oranges,Tell Tale,4,1.91,0.9,,USA
+7/22/1998,515,Tell Tale Mandarin Oranges,Tell Tale,4,1.91,0.9,,United States
+1/24/1998,492,Tell Tale Lettuce,Tell Tale,3,1.77,0.58,,India
+6/5/1998,1125,Tri-State Tomatos,Tri-State,1,2.21,0.82,1.0,United States
+4/19/1998,1151,Tri-State Tangerines,Tri-State,2,0.62,0.31,1.0,India
+3/25/1997,523,Tell Tale Oranges,Tell Tale,4,1.72,0.71,,Nepal
+4/3/1997,835,Ebony Tangerines,Ebony,2,3.49,1.64,,Nepal
+8/23/1998,1430,Hermanos Lettuce,Hermanos,3,3.36,1.18,1.0,India
+7/27/1997,795,Ebony Asparagus,Ebony,3,0.96,0.36,,India
+8/14/1997,1129,Tri-State Fresh Lima Beans,Tri-State,2,2.43,0.95,1.0,United Kingdom
+4/17/1998,1129,Tri-State Fresh Lima Beans,Tri-State,5,2.43,0.95,1.0,United States
+6/28/1998,182,High Top Elephant Garlic,High Top,4,1.84,0.66,,USA
+6/25/1998,185,High Top Potatos,High Top,4,0.57,0.22,1.0,UK
+4/12/1998,1453,Hermanos Mandarin Oranges,Hermanos,2,3.11,1.49,1.0,United States
+4/6/1997,794,Ebony Corn on the Cob,Ebony,3,1.2,0.43,,India
+11/16/1998,1420,Hermanos Summer Squash,Hermanos,1,1.73,0.8,,Nepal
+1/11/1997,1422,Hermanos Asparagus,Hermanos,2,2.23,1.12,1.0,USA
+9/11/1997,1460,Hermanos Walnuts,Hermanos,4,2.13,0.68,1.0,United States
+3/3/1998,182,High Top Elephant Garlic,High Top,3,1.84,0.66,,USA
+5/8/1997,201,High Top Plums,High Top,4,2.25,0.88,,USA
+11/30/1997,485,Tell Tale Sweet Peas,Tell Tale,3,2.19,0.83,,Nepal
+8/4/1997,811,Ebony Baby Onion,Ebony,2,2.97,0.95,1.0,United Kingdom
+4/7/1998,503,Tell Tale Squash,Tell Tale,3,1.86,0.89,,India
+11/22/1998,199,High Top Lemons,High Top,3,1.67,0.73,1.0,United Kingdom
+2/6/1998,495,Tell Tale Garlic,Tell Tale,4,1.17,0.48,1.0,India
+1/10/1998,500,Tell Tale Baby Onion,Tell Tale,3,2.66,1.28,,UK
+7/17/1998,1434,Hermanos Potatos,Hermanos,2,0.93,0.47,1.0,India
+3/14/1997,1124,Tri-State Cauliflower,Tri-State,4,0.81,0.41,1.0,India
+3/19/1998,1428,Hermanos Green Pepper,Hermanos,3,3.86,1.27,,USA
+11/7/1997,502,Tell Tale Fresh Lima Beans,Tell Tale,1,3.17,1.24,1.0,UK
+9/9/1998,1126,Tri-State Mushrooms,Tri-State,4,1.16,0.42,1.0,United Kingdom
+7/16/1998,812,Ebony Dried Mushrooms,Ebony,3,3.34,1.47,1.0,India
+10/19/1998,500,Tell Tale Baby Onion,Tell Tale,2,2.66,1.28,,India
+10/2/1998,1150,Tri-State Oranges,Tri-State,3,3.19,1.53,1.0,USA
+11/2/1998,176,High Top Beets,High Top,4,2.27,0.75,1.0,United Kingdom
+10/24/1997,503,Tell Tale Squash,Tell Tale,3,1.86,0.89,,USA
+7/4/1998,1120,Tri-State Elephant Garlic,Tri-State,3,1.71,0.86,,Nepal
+4/7/1998,811,Ebony Baby Onion,Ebony,2,2.97,0.95,1.0,India
+7/4/1997,1463,Hermanos Party Nuts,Hermanos,3,1.98,0.75,1.0,USA
+9/29/1998,211,High Top Walnuts,High Top,3,2.72,1.22,1.0,USA
+9/10/1997,819,Ebony Golden Delcious Apples,Ebony,3,2.77,0.97,1.0,United States
+12/7/1998,1450,Hermanos Plums,Hermanos,3,2.77,1.3,1.0,United Kingdom
+5/24/1998,1461,Hermanos Oranges,Hermanos,4,2.56,1.18,1.0,Nepal
+6/16/1998,1114,Tri-State Beets,Tri-State,2,3.42,1.2,1.0,Nepal
+5/21/1998,501,Tell Tale Dried Mushrooms,Tell Tale,4,1.45,0.7,1.0,United Kingdom
+2/13/1998,832,Ebony Fuji Apples,Ebony,2,3.24,1.1,,UK
+12/7/1998,1118,Tri-State Shitake Mushrooms,Tri-State,4,2.93,1.44,1.0,USA
+10/26/1998,1140,Tri-State Peaches,Tri-State,4,2.56,1.08,,India
+7/21/1998,494,Tell Tale Red Pepper,Tell Tale,3,1.93,0.81,1.0,United Kingdom
+12/12/1998,186,High Top Cauliflower,High Top,3,2.23,1.05,,India
+9/28/1998,482,Tell Tale Summer Squash,Tell Tale,4,0.73,0.36,,UK
+2/12/1998,1120,Tri-State Elephant Garlic,Tri-State,3,1.71,0.86,,Nepal
+3/29/1998,188,High Top Mushrooms,High Top,3,2.58,0.8,1.0,United Kingdom
+5/17/1998,210,High Top Fuji Apples,High Top,4,1.54,0.55,,United Kingdom
+4/8/1998,827,Ebony Mixed Nuts,Ebony,3,0.95,0.35,1.0,USA
+7/14/1998,834,Ebony Oranges,Ebony,3,2.96,0.92,,Nepal
+9/22/1998,1432,Hermanos Red Pepper,Hermanos,3,1.8,0.59,,Nepal
+2/2/1998,196,High Top Macintosh Apples,High Top,2,2.47,0.79,1.0,UK
+1/17/1998,493,Tell Tale Elephant Garlic,Tell Tale,2,2.64,0.9,1.0,India
+1/10/1998,1125,Tri-State Tomatos,Tri-State,4,2.21,0.82,1.0,United States
+3/23/1997,1455,Hermanos Canned Peanuts,Hermanos,3,2.53,1.11,1.0,United States
+6/10/1997,808,Ebony Cauliflower,Ebony,3,1.39,0.53,1.0,Nepal
+11/8/1998,190,High Top Dried Mushrooms,High Top,3,3.74,1.5,1.0,United Kingdom
+3/12/1997,515,Tell Tale Mandarin Oranges,Tell Tale,4,1.91,0.9,,United States
+3/11/1998,834,Ebony Oranges,Ebony,5,2.96,0.92,,United States
+5/28/1998,1436,Hermanos Tomatos,Hermanos,2,0.92,0.37,1.0,UK
+4/27/1998,794,Ebony Corn on the Cob,Ebony,4,1.2,0.43,,India
+2/21/1998,821,Ebony Lemons,Ebony,3,1.91,0.78,1.0,Nepal
+6/25/1998,180,High Top Shitake Mushrooms,High Top,2,0.69,0.32,,United Kingdom
+12/29/1998,487,Tell Tale Beets,Tell Tale,2,2.6,1.17,,Nepal
+11/1/1998,821,Ebony Lemons,Ebony,2,1.91,0.78,1.0,UK
+12/4/1998,809,Ebony Tomatos,Ebony,2,1.22,0.4,1.0,United Kingdom
+2/17/1997,1429,Hermanos Shitake Mushrooms,Hermanos,2,2.4,1.2,1.0,India
+10/26/1998,1133,Tri-State Almonds,Tri-State,2,1.54,0.6,1.0,United Kingdom
+5/2/1998,1447,Hermanos Red Delcious Apples,Hermanos,4,2.96,1.18,,India
+10/18/1997,522,Tell Tale Walnuts,Tell Tale,4,1.63,0.57,1.0,UK
+4/12/1997,198,High Top Red Delcious Apples,High Top,2,0.92,0.31,1.0,United Kingdom
+12/8/1998,1458,Hermanos Honey Dew,Hermanos,3,2.9,1.33,1.0,UK
+1/24/1997,799,Ebony Prepared Salad,Ebony,2,2.84,1.28,1.0,India
+11/6/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,India
+2/27/1997,1461,Hermanos Oranges,Hermanos,1,2.56,1.18,1.0,India
+6/28/1998,176,High Top Beets,High Top,4,2.27,0.75,1.0,India
+1/19/1998,194,High Top Firm Tofu,High Top,4,3.36,1.28,1.0,USA
+9/24/1998,490,Tell Tale Green Pepper,Tell Tale,4,1.65,0.54,,Nepal
+3/26/1998,1120,Tri-State Elephant Garlic,Tri-State,4,1.71,0.86,,United States
+8/18/1998,1449,Hermanos Fancy Plums,Hermanos,3,0.87,0.31,1.0,United Kingdom
+1/4/1998,1150,Tri-State Oranges,Tri-State,2,3.19,1.53,1.0,Nepal
+3/14/1997,1110,Tri-State Corn on the Cob,Tri-State,2,2.8,1.32,,India
+5/4/1998,187,High Top Tomatos,High Top,3,1.32,0.42,,UK
+5/21/1997,214,High Top Party Nuts,High Top,4,2.82,1.07,1.0,Nepal
+10/10/1997,190,High Top Dried Mushrooms,High Top,3,3.74,1.5,1.0,UK
+3/6/1998,1148,Tri-State Fuji Apples,Tri-State,3,2.69,0.83,,Nepal
+12/23/1998,826,Ebony Mandarin Oranges,Ebony,1,1.83,0.73,1.0,India
+9/22/1998,1127,Tri-State Baby Onion,Tri-State,2,2.62,1.02,,India
+2/8/1998,515,Tell Tale Mandarin Oranges,Tell Tale,4,1.91,0.9,,India
+11/16/1998,214,High Top Party Nuts,High Top,4,2.82,1.07,1.0,USA
+12/12/1998,491,Tell Tale Shitake Mushrooms,Tell Tale,4,3.51,1.47,1.0,India
+6/19/1997,823,Ebony Plums,Ebony,3,3.43,1.51,1.0,Nepal
+4/9/1998,1113,Tri-State New Potatos,Tri-State,2,0.67,0.25,,USA
+3/5/1998,175,High Top New Potatos,High Top,3,3.85,1.58,1.0,UK
+7/4/1997,804,Ebony Elephant Garlic,Ebony,4,2.21,1.04,,United States
+8/3/1998,509,Tell Tale Red Delcious Apples,Tell Tale,2,1.9,0.67,1.0,India
+10/23/1997,492,Tell Tale Lettuce,Tell Tale,4,1.77,0.58,,India
+5/21/1998,177,High Top Prepared Salad,High Top,5,1.66,0.81,,USA
+10/15/1998,498,Tell Tale Tomatos,Tell Tale,4,2.55,1.22,1.0,India
+6/24/1997,1431,Hermanos Elephant Garlic,Hermanos,1,2.82,0.87,1.0,USA
+2/5/1997,179,High Top Green Pepper,High Top,3,2.75,0.88,,UK
+5/6/1998,210,High Top Fuji Apples,High Top,3,1.54,0.55,,India
+6/5/1998,496,Tell Tale Potatos,Tell Tale,3,0.84,0.31,,India
+9/18/1998,831,Ebony Honey Dew,Ebony,3,1.58,0.71,,United States
+8/24/1997,1431,Hermanos Elephant Garlic,Hermanos,3,2.82,0.87,1.0,Nepal
+6/23/1998,484,Tell Tale Asparagus,Tell Tale,3,3.64,1.82,,United Kingdom
+10/15/1997,181,High Top Lettuce,High Top,3,0.93,0.35,,United States
+12/3/1998,828,Ebony Canned Peanuts,Ebony,4,1.29,0.53,,United Kingdom
+3/2/1998,485,Tell Tale Sweet Peas,Tell Tale,2,2.19,0.83,,UK
+10/8/1998,203,High Top Broccoli,High Top,2,0.63,0.2,1.0,United Kingdom
+4/19/1998,508,Tell Tale Golden Delcious Apples,Tell Tale,3,3.79,1.36,1.0,Nepal
+12/5/1998,482,Tell Tale Summer Squash,Tell Tale,4,0.73,0.36,,United States
+6/23/1998,812,Ebony Dried Mushrooms,Ebony,3,3.34,1.47,1.0,Nepal
+6/13/1998,1457,Hermanos Cantelope,Hermanos,3,3.34,1.5,,United States
+2/27/1998,191,High Top Fresh Lima Beans,High Top,3,2.87,1.06,1.0,United States
+5/19/1997,831,Ebony Honey Dew,Ebony,2,1.58,0.71,,Nepal
+9/3/1998,825,Ebony Broccoli,Ebony,3,2.83,0.96,1.0,United States
+6/23/1998,834,Ebony Oranges,Ebony,4,2.96,0.92,,India
+5/21/1997,523,Tell Tale Oranges,Tell Tale,2,1.72,0.71,,India
+10/7/1998,495,Tell Tale Garlic,Tell Tale,4,1.17,0.48,1.0,India
+6/16/1998,187,High Top Tomatos,High Top,4,1.32,0.42,,USA
+11/13/1997,191,High Top Fresh Lima Beans,High Top,4,2.87,1.06,1.0,United Kingdom
+9/4/1997,1149,Tri-State Walnuts,Tri-State,2,0.88,0.39,,Nepal
+10/26/1998,1462,Hermanos Tangerines,Hermanos,4,0.73,0.23,,United Kingdom
+2/13/1998,801,Ebony Green Pepper,Ebony,2,2.65,1.25,,India
+11/6/1998,804,Ebony Elephant Garlic,Ebony,4,2.21,1.04,,United States
+5/19/1998,1131,Tri-State Limes,Tri-State,4,2.4,1.08,,Nepal
+7/1/1997,1124,Tri-State Cauliflower,Tri-State,2,0.81,0.41,1.0,India
+7/8/1998,174,High Top Sweet Peas,High Top,4,1.71,0.62,1.0,India
+3/15/1997,1122,Tri-State Garlic,Tri-State,4,0.74,0.32,1.0,Nepal
+11/10/1997,1446,Hermanos Golden Delcious Apples,Hermanos,4,1.26,0.4,,Nepal
+8/26/1998,1435,Hermanos Cauliflower,Hermanos,4,2.72,1.25,,USA
+2/20/1998,799,Ebony Prepared Salad,Ebony,4,2.84,1.28,1.0,Nepal
+3/19/1998,524,Tell Tale Tangerines,Tell Tale,2,1.74,0.87,,India
+7/12/1998,793,Ebony Summer Squash,Ebony,2,2.85,0.97,,United Kingdom
+11/18/1997,836,Ebony Party Nuts,Ebony,5,1.18,0.45,1.0,India
+11/14/1997,506,Tell Tale Almonds,Tell Tale,3,3.68,1.14,1.0,United Kingdom
+2/23/1998,487,Tell Tale Beets,Tell Tale,4,2.6,1.17,,India
+12/12/1998,1142,Tri-State Mandarin Oranges,Tri-State,2,2.95,1.36,,India
+12/29/1997,1152,Tri-State Party Nuts,Tri-State,3,2.63,1.0,1.0,United Kingdom
+2/4/1997,507,Tell Tale Macintosh Apples,Tell Tale,3,2.53,1.04,1.0,USA
+2/6/1998,516,Tell Tale Mixed Nuts,Tell Tale,3,1.85,0.63,1.0,India
+11/22/1997,1444,Hermanos Almonds,Hermanos,3,1.76,0.63,1.0,UK
+4/15/1997,1427,Hermanos Onions,Hermanos,2,3.27,1.34,1.0,Nepal
+5/21/1997,812,Ebony Dried Mushrooms,Ebony,3,3.34,1.47,1.0,United States
+11/14/1997,509,Tell Tale Red Delcious Apples,Tell Tale,2,1.9,0.67,1.0,India
+9/10/1998,1447,Hermanos Red Delcious Apples,Hermanos,4,2.96,1.18,,UK
+3/2/1997,1137,Tri-State Lemons,Tri-State,5,1.77,0.64,,USA
+2/10/1998,482,Tell Tale Summer Squash,Tell Tale,3,0.73,0.36,,United States
+4/29/1998,1455,Hermanos Canned Peanuts,Hermanos,5,2.53,1.11,1.0,India
+10/16/1998,1123,Tri-State Potatos,Tri-State,4,1.96,0.92,,Nepal
+5/8/1997,1456,Hermanos Sweet Onion,Hermanos,2,1.83,0.73,1.0,United Kingdom
+7/12/1998,1133,Tri-State Almonds,Tri-State,3,1.54,0.6,1.0,India
+12/5/1998,803,Ebony Lettuce,Ebony,3,3.51,1.65,,United Kingdom
+8/14/1997,1428,Hermanos Green Pepper,Hermanos,3,3.86,1.27,,United States
+10/16/1998,1126,Tri-State Mushrooms,Tri-State,3,1.16,0.42,1.0,India
+6/22/1997,1433,Hermanos Garlic,Hermanos,3,2.63,1.32,,United States
+1/21/1997,804,Ebony Elephant Garlic,Ebony,3,2.21,1.04,,UK
+2/8/1998,1137,Tri-State Lemons,Tri-State,3,1.77,0.64,,UK
+1/25/1997,516,Tell Tale Mixed Nuts,Tell Tale,4,1.85,0.63,1.0,India
+10/15/1997,484,Tell Tale Asparagus,Tell Tale,2,3.64,1.82,,UK
+6/5/1998,1122,Tri-State Garlic,Tri-State,3,0.74,0.32,1.0,United Kingdom
+10/7/1998,829,Ebony Sweet Onion,Ebony,2,2.17,0.91,,Nepal
+3/6/1998,1455,Hermanos Canned Peanuts,Hermanos,4,2.53,1.11,1.0,India
+1/15/1998,500,Tell Tale Baby Onion,Tell Tale,4,2.66,1.28,,India
+8/3/1998,1145,Tri-State Sweet Onion,Tri-State,4,1.57,0.55,,United Kingdom
+5/17/1998,494,Tell Tale Red Pepper,Tell Tale,4,1.93,0.81,1.0,Nepal
+3/29/1998,179,High Top Green Pepper,High Top,4,2.75,0.88,,United States
+10/13/1998,1442,Hermanos Limes,Hermanos,3,1.64,0.72,,Nepal
+10/23/1997,491,Tell Tale Shitake Mushrooms,Tell Tale,3,3.51,1.47,1.0,Nepal
+12/27/1997,484,Tell Tale Asparagus,Tell Tale,4,3.64,1.82,,USA
+8/28/1997,804,Ebony Elephant Garlic,Ebony,2,2.21,1.04,,India
+10/3/1998,1114,Tri-State Beets,Tri-State,3,3.42,1.2,1.0,UK
+11/23/1998,207,High Top Sweet Onion,High Top,4,1.24,0.55,1.0,United States
+6/11/1998,1422,Hermanos Asparagus,Hermanos,3,2.23,1.12,1.0,India
+3/23/1998,1433,Hermanos Garlic,Hermanos,3,2.63,1.32,,United Kingdom
+1/10/1998,1139,Tri-State Plums,Tri-State,3,2.86,1.4,1.0,United Kingdom
+12/8/1997,214,High Top Party Nuts,High Top,3,2.82,1.07,1.0,India
+7/7/1998,489,Tell Tale Onions,Tell Tale,3,2.41,1.06,1.0,UK
+10/15/1998,1421,Hermanos Corn on the Cob,Hermanos,2,2.84,1.39,,UK
+6/9/1998,523,Tell Tale Oranges,Tell Tale,2,1.72,0.71,,United Kingdom
+7/10/1998,794,Ebony Corn on the Cob,Ebony,4,1.2,0.43,,India
+12/7/1998,191,High Top Fresh Lima Beans,High Top,3,2.87,1.06,1.0,Nepal
+8/13/1997,500,Tell Tale Baby Onion,Tell Tale,4,2.66,1.28,,United Kingdom
+12/25/1997,1444,Hermanos Almonds,Hermanos,2,1.76,0.63,1.0,United Kingdom
+4/9/1997,523,Tell Tale Oranges,Tell Tale,5,1.72,0.71,,Nepal
+4/9/1998,1421,Hermanos Corn on the Cob,Hermanos,3,2.84,1.39,,India
+9/14/1998,804,Ebony Elephant Garlic,Ebony,4,2.21,1.04,,USA
+12/4/1998,1456,Hermanos Sweet Onion,Hermanos,2,1.83,0.73,1.0,United States
+8/7/1998,1423,Hermanos Sweet Peas,Hermanos,3,2.37,1.11,,Nepal
+6/28/1997,498,Tell Tale Tomatos,Tell Tale,3,2.55,1.22,1.0,United Kingdom
+12/1/1998,808,Ebony Cauliflower,Ebony,4,1.39,0.53,1.0,United States
+8/15/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,India
+6/3/1998,1448,Hermanos Lemons,Hermanos,3,3.94,1.62,,India
+3/14/1997,1131,Tri-State Limes,Tri-State,3,2.4,1.08,,UK
+1/18/1997,828,Ebony Canned Peanuts,Ebony,4,1.29,0.53,,United States
+6/22/1997,483,Tell Tale Corn on the Cob,Tell Tale,3,1.94,0.68,1.0,United States
+12/27/1997,1448,Hermanos Lemons,Hermanos,2,3.94,1.62,,India
+7/23/1997,175,High Top New Potatos,High Top,4,3.85,1.58,1.0,UK
+8/25/1998,1131,Tri-State Limes,Tri-State,2,2.4,1.08,,United States
+4/9/1998,1128,Tri-State Dried Mushrooms,Tri-State,4,2.61,1.04,1.0,Nepal
+2/9/1998,178,High Top Onions,High Top,3,1.33,0.41,1.0,India
+5/13/1998,1432,Hermanos Red Pepper,Hermanos,3,1.8,0.59,,UK
+7/15/1998,522,Tell Tale Walnuts,Tell Tale,3,1.63,0.57,1.0,USA
+1/2/1998,189,High Top Baby Onion,High Top,4,3.45,1.24,1.0,United States
+9/23/1997,1112,Tri-State Sweet Peas,Tri-State,2,3.58,1.43,,Nepal
+11/16/1997,516,Tell Tale Mixed Nuts,Tell Tale,3,1.85,0.63,1.0,United States
+8/26/1998,524,Tell Tale Tangerines,Tell Tale,3,1.74,0.87,,UK
+8/3/1998,180,High Top Shitake Mushrooms,High Top,4,0.69,0.32,,United States
+11/27/1997,499,Tell Tale Mushrooms,Tell Tale,4,2.96,1.42,1.0,Nepal
+11/18/1997,1445,Hermanos Macintosh Apples,Hermanos,3,0.74,0.27,,India
+8/10/1998,1128,Tri-State Dried Mushrooms,Tri-State,3,2.61,1.04,1.0,India
+11/2/1998,796,Ebony Sweet Peas,Ebony,2,1.32,0.5,1.0,United Kingdom
+9/8/1997,1448,Hermanos Lemons,Hermanos,4,3.94,1.62,,Nepal
+5/6/1998,1453,Hermanos Mandarin Oranges,Hermanos,4,3.11,1.49,1.0,Nepal
+2/19/1998,1142,Tri-State Mandarin Oranges,Tri-State,2,2.95,1.36,,United Kingdom
+3/22/1998,521,Tell Tale Fuji Apples,Tell Tale,2,3.63,1.52,1.0,India
+5/4/1997,1148,Tri-State Fuji Apples,Tri-State,2,2.69,0.83,,UK
+3/21/1998,492,Tell Tale Lettuce,Tell Tale,3,1.77,0.58,,UK
+4/12/1998,818,Ebony Macintosh Apples,Ebony,2,1.35,0.45,1.0,India
+2/17/1998,1144,Tri-State Canned Peanuts,Tri-State,4,0.85,0.31,1.0,USA
+2/8/1998,205,High Top Mixed Nuts,High Top,4,2.71,1.25,1.0,USA
+2/8/1998,1429,Hermanos Shitake Mushrooms,Hermanos,4,2.4,1.2,1.0,United States
+4/6/1998,1148,Tri-State Fuji Apples,Tri-State,3,2.69,0.83,,United Kingdom
+4/28/1998,1117,Tri-State Green Pepper,Tri-State,3,3.64,1.42,1.0,Nepal
+4/15/1998,1430,Hermanos Lettuce,Hermanos,3,3.36,1.18,1.0,United Kingdom
+1/28/1997,1143,Tri-State Mixed Nuts,Tri-State,3,1.76,0.69,,USA
+9/11/1997,1462,Hermanos Tangerines,Hermanos,2,0.73,0.23,,Nepal
+1/24/1998,816,Ebony Firm Tofu,Ebony,4,2.29,0.89,1.0,United States
+10/16/1997,825,Ebony Broccoli,Ebony,3,2.83,0.96,1.0,USA
+8/28/1997,202,High Top Peaches,High Top,3,1.49,0.7,,Nepal
+8/13/1998,516,Tell Tale Mixed Nuts,Tell Tale,2,1.85,0.63,1.0,United States
+12/8/1998,171,High Top Summer Squash,High Top,4,2.95,1.27,,United States
+3/11/1998,504,Tell Tale Limes,Tell Tale,3,1.84,0.77,1.0,Nepal
+6/6/1998,1114,Tri-State Beets,Tri-State,4,3.42,1.2,1.0,United Kingdom
+12/11/1998,178,High Top Onions,High Top,3,1.33,0.41,1.0,India
+1/25/1998,199,High Top Lemons,High Top,4,1.67,0.73,1.0,Nepal
+1/21/1997,181,High Top Lettuce,High Top,6,0.93,0.35,,UK
+3/21/1998,487,Tell Tale Beets,Tell Tale,3,2.6,1.17,,United Kingdom
+1/24/1998,205,High Top Mixed Nuts,High Top,3,2.71,1.25,1.0,Nepal
+5/9/1997,177,High Top Prepared Salad,High Top,2,1.66,0.81,,India
+12/21/1998,189,High Top Baby Onion,High Top,4,3.45,1.24,1.0,India
+3/2/1998,515,Tell Tale Mandarin Oranges,Tell Tale,3,1.91,0.9,,India
+9/8/1998,1133,Tri-State Almonds,Tri-State,3,1.54,0.6,1.0,India
+8/30/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,United Kingdom
+11/6/1998,1428,Hermanos Green Pepper,Hermanos,3,3.86,1.27,,UK
+12/10/1998,183,High Top Red Pepper,High Top,3,2.41,1.04,1.0,USA
+9/20/1997,1440,Hermanos Fresh Lima Beans,Hermanos,2,2.81,1.1,,India
+2/2/1998,1432,Hermanos Red Pepper,Hermanos,3,1.8,0.59,,Nepal
+2/19/1997,809,Ebony Tomatos,Ebony,3,1.22,0.4,1.0,India
+1/20/1997,795,Ebony Asparagus,Ebony,3,0.96,0.36,,United Kingdom
+7/6/1997,1438,Hermanos Baby Onion,Hermanos,2,1.37,0.67,,India
+3/21/1998,1426,Hermanos Prepared Salad,Hermanos,2,3.74,1.76,,Nepal
+1/2/1997,1432,Hermanos Red Pepper,Hermanos,3,1.8,0.59,,India
+2/6/1998,1434,Hermanos Potatos,Hermanos,2,0.93,0.47,1.0,United States
+5/14/1998,181,High Top Lettuce,High Top,4,0.93,0.35,,India
+2/2/1998,1439,Hermanos Dried Mushrooms,Hermanos,2,1.5,0.75,,India
+10/2/1998,504,Tell Tale Limes,Tell Tale,4,1.84,0.77,1.0,India
+2/22/1998,483,Tell Tale Corn on the Cob,Tell Tale,2,1.94,0.68,1.0,United States
+9/10/1998,518,Tell Tale Sweet Onion,Tell Tale,2,1.36,0.68,,United States
+4/27/1998,1113,Tri-State New Potatos,Tri-State,3,0.67,0.25,,USA
+12/25/1997,1438,Hermanos Baby Onion,Hermanos,2,1.37,0.67,,United States
+4/26/1998,833,Ebony Walnuts,Ebony,2,2.39,1.15,,Nepal
+6/16/1998,827,Ebony Mixed Nuts,Ebony,3,0.95,0.35,1.0,UK
+11/18/1997,197,High Top Golden Delcious Apples,High Top,3,2.91,1.46,,Nepal
+7/11/1997,1126,Tri-State Mushrooms,Tri-State,4,1.16,0.42,1.0,USA
+12/7/1998,205,High Top Mixed Nuts,High Top,3,2.71,1.25,1.0,Nepal
+9/19/1998,176,High Top Beets,High Top,3,2.27,0.75,1.0,USA
+10/11/1998,213,High Top Tangerines,High Top,3,0.56,0.19,1.0,United States
+3/18/1997,1443,Hermanos Firm Tofu,Hermanos,4,2.17,0.87,1.0,USA
+7/3/1998,1116,Tri-State Onions,Tri-State,4,2.53,0.83,1.0,USA
+10/18/1998,506,Tell Tale Almonds,Tell Tale,5,3.68,1.14,1.0,India
+11/15/1997,833,Ebony Walnuts,Ebony,2,2.39,1.15,,United Kingdom
+9/23/1998,1115,Tri-State Prepared Salad,Tri-State,4,2.5,0.9,1.0,United Kingdom
+5/27/1998,1459,Hermanos Fuji Apples,Hermanos,4,1.43,0.6,1.0,UK
+7/27/1997,812,Ebony Dried Mushrooms,Ebony,3,3.34,1.47,1.0,UK
+6/16/1998,1463,Hermanos Party Nuts,Hermanos,4,1.98,0.75,1.0,Nepal
+1/15/1998,493,Tell Tale Elephant Garlic,Tell Tale,4,2.64,0.9,1.0,United States
+4/10/1998,486,Tell Tale New Potatos,Tell Tale,3,1.14,0.51,1.0,Nepal
+4/18/1998,194,High Top Firm Tofu,High Top,2,3.36,1.28,1.0,United States
+3/13/1997,508,Tell Tale Golden Delcious Apples,Tell Tale,3,3.79,1.36,1.0,India
+2/8/1998,489,Tell Tale Onions,Tell Tale,3,2.41,1.06,1.0,United Kingdom
+6/20/1998,1118,Tri-State Shitake Mushrooms,Tri-State,2,2.93,1.44,1.0,Nepal
+9/2/1998,1137,Tri-State Lemons,Tri-State,3,1.77,0.64,,USA
+4/12/1997,187,High Top Tomatos,High Top,4,1.32,0.42,,United States
+8/26/1997,826,Ebony Mandarin Oranges,Ebony,3,1.83,0.73,1.0,United Kingdom
+9/7/1998,194,High Top Firm Tofu,High Top,3,3.36,1.28,1.0,UK
+2/3/1997,1463,Hermanos Party Nuts,Hermanos,3,1.98,0.75,1.0,United States
+3/25/1997,812,Ebony Dried Mushrooms,Ebony,2,3.34,1.47,1.0,United Kingdom
+1/12/1998,196,High Top Macintosh Apples,High Top,3,2.47,0.79,1.0,India
+11/21/1998,514,Tell Tale Broccoli,Tell Tale,4,1.81,0.65,1.0,Nepal
+7/6/1997,483,Tell Tale Corn on the Cob,Tell Tale,3,1.94,0.68,1.0,Nepal
+2/23/1998,195,High Top Almonds,High Top,2,1.77,0.55,,Nepal
+11/21/1997,1460,Hermanos Walnuts,Hermanos,3,2.13,0.68,1.0,USA
+10/4/1998,207,High Top Sweet Onion,High Top,3,1.24,0.55,1.0,Nepal
+1/9/1998,519,Tell Tale Cantelope,Tell Tale,4,3.82,1.8,1.0,Nepal
+2/3/1998,835,Ebony Tangerines,Ebony,2,3.49,1.64,,India
+11/25/1998,1446,Hermanos Golden Delcious Apples,Hermanos,4,1.26,0.4,,UK
+1/21/1998,1448,Hermanos Lemons,Hermanos,4,3.94,1.62,,Nepal
+8/13/1998,1427,Hermanos Onions,Hermanos,2,3.27,1.34,1.0,United Kingdom
+6/17/1998,1445,Hermanos Macintosh Apples,Hermanos,4,0.74,0.27,,United States
+10/8/1997,835,Ebony Tangerines,Ebony,2,3.49,1.64,,Nepal
+11/17/1997,1438,Hermanos Baby Onion,Hermanos,2,1.37,0.67,,UK
+12/12/1998,204,High Top Mandarin Oranges,High Top,3,1.6,0.62,,United States
+4/2/1997,796,Ebony Sweet Peas,Ebony,3,1.32,0.5,1.0,Nepal
+1/17/1998,1430,Hermanos Lettuce,Hermanos,2,3.36,1.18,1.0,India
+1/10/1997,1140,Tri-State Peaches,Tri-State,2,2.56,1.08,,India
+9/21/1998,1460,Hermanos Walnuts,Hermanos,3,2.13,0.68,1.0,Nepal
+10/26/1997,819,Ebony Golden Delcious Apples,Ebony,3,2.77,0.97,1.0,United Kingdom
+12/26/1998,795,Ebony Asparagus,Ebony,3,0.96,0.36,,Nepal
+12/5/1998,1114,Tri-State Beets,Tri-State,3,3.42,1.2,1.0,India
+1/30/1998,793,Ebony Summer Squash,Ebony,4,2.85,0.97,,Nepal
+3/19/1998,1136,Tri-State Red Delcious Apples,Tri-State,3,3.61,1.77,1.0,USA
+4/12/1998,1441,Hermanos Squash,Hermanos,4,1.31,0.64,1.0,USA
+1/17/1998,1424,Hermanos New Potatos,Hermanos,3,3.91,1.25,1.0,United States
+1/16/1998,1151,Tri-State Tangerines,Tri-State,4,0.62,0.31,1.0,Nepal
+1/29/1997,796,Ebony Sweet Peas,Ebony,4,1.32,0.5,1.0,UK
+5/23/1998,203,High Top Broccoli,High Top,2,0.63,0.2,1.0,United States
+8/27/1997,494,Tell Tale Red Pepper,Tell Tale,3,1.93,0.81,1.0,Nepal
+9/21/1998,513,Tell Tale Peaches,Tell Tale,3,0.58,0.28,1.0,India
+3/29/1997,483,Tell Tale Corn on the Cob,Tell Tale,3,1.94,0.68,1.0,UK
+8/13/1997,1453,Hermanos Mandarin Oranges,Hermanos,3,3.11,1.49,1.0,United States
+10/27/1998,521,Tell Tale Fuji Apples,Tell Tale,4,3.63,1.52,1.0,United Kingdom
+6/9/1998,1141,Tri-State Broccoli,Tri-State,3,1.34,0.66,,USA
+11/7/1997,1440,Hermanos Fresh Lima Beans,Hermanos,4,2.81,1.1,,United Kingdom
+6/3/1998,819,Ebony Golden Delcious Apples,Ebony,3,2.77,0.97,1.0,Nepal
+4/12/1997,189,High Top Baby Onion,High Top,4,3.45,1.24,1.0,Nepal
+9/16/1997,822,Ebony Fancy Plums,Ebony,3,1.86,0.67,,India
+11/28/1997,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,United Kingdom
+2/6/1998,1144,Tri-State Canned Peanuts,Tri-State,3,0.85,0.31,1.0,India
+12/28/1997,513,Tell Tale Peaches,Tell Tale,4,0.58,0.28,1.0,India
+5/24/1998,1459,Hermanos Fuji Apples,Hermanos,3,1.43,0.6,1.0,India
+9/8/1997,1145,Tri-State Sweet Onion,Tri-State,3,1.57,0.55,,UK
+12/19/1998,1142,Tri-State Mandarin Oranges,Tri-State,2,2.95,1.36,,Nepal
+1/27/1998,1458,Hermanos Honey Dew,Hermanos,2,2.9,1.33,1.0,Nepal
+7/17/1997,509,Tell Tale Red Delcious Apples,Tell Tale,4,1.9,0.67,1.0,India
+12/11/1998,800,Ebony Onions,Ebony,2,3.26,1.43,1.0,United States
+12/2/1997,1452,Hermanos Broccoli,Hermanos,4,2.89,1.39,,United Kingdom
+10/6/1998,814,Ebony Squash,Ebony,4,1.73,0.83,,India
+10/3/1998,1420,Hermanos Summer Squash,Hermanos,2,1.73,0.8,,Nepal
+8/19/1998,803,Ebony Lettuce,Ebony,2,3.51,1.65,,USA
+1/12/1998,190,High Top Dried Mushrooms,High Top,4,3.74,1.5,1.0,United States
+2/15/1998,482,Tell Tale Summer Squash,Tell Tale,4,0.73,0.36,,United States
+10/18/1998,834,Ebony Oranges,Ebony,4,2.96,0.92,,United States
+10/29/1998,1457,Hermanos Cantelope,Hermanos,3,3.34,1.5,,United Kingdom
+3/21/1998,490,Tell Tale Green Pepper,Tell Tale,2,1.65,0.54,,USA
+7/8/1998,1427,Hermanos Onions,Hermanos,2,3.27,1.34,1.0,India
+9/23/1997,210,High Top Fuji Apples,High Top,3,1.54,0.55,,United States
+2/2/1997,498,Tell Tale Tomatos,Tell Tale,3,2.55,1.22,1.0,USA
+11/2/1998,516,Tell Tale Mixed Nuts,Tell Tale,4,1.85,0.63,1.0,United Kingdom
+1/16/1997,1136,Tri-State Red Delcious Apples,Tri-State,2,3.61,1.77,1.0,USA
+10/4/1998,1148,Tri-State Fuji Apples,Tri-State,5,2.69,0.83,,UK
+6/16/1997,1138,Tri-State Fancy Plums,Tri-State,3,2.44,0.78,1.0,UK
+4/7/1997,497,Tell Tale Cauliflower,Tell Tale,2,1.87,0.64,1.0,United Kingdom
+11/28/1998,487,Tell Tale Beets,Tell Tale,3,2.6,1.17,,India
+6/23/1998,214,High Top Party Nuts,High Top,3,2.82,1.07,1.0,India
+2/25/1997,1140,Tri-State Peaches,Tri-State,3,2.56,1.08,,UK
+11/30/1998,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,India
+5/15/1997,207,High Top Sweet Onion,High Top,4,1.24,0.55,1.0,United Kingdom
+12/13/1998,828,Ebony Canned Peanuts,Ebony,3,1.29,0.53,,Nepal
+4/13/1997,1453,Hermanos Mandarin Oranges,Hermanos,4,3.11,1.49,1.0,United States
+11/9/1997,1115,Tri-State Prepared Salad,Tri-State,2,2.5,0.9,1.0,USA
+7/27/1998,516,Tell Tale Mixed Nuts,Tell Tale,2,1.85,0.63,1.0,Nepal
+12/18/1997,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,India
+8/3/1998,177,High Top Prepared Salad,High Top,3,1.66,0.81,,United States
+4/27/1998,804,Ebony Elephant Garlic,Ebony,2,2.21,1.04,,United States
+3/19/1998,1123,Tri-State Potatos,Tri-State,3,1.96,0.92,,UK
+12/30/1998,1151,Tri-State Tangerines,Tri-State,3,0.62,0.31,1.0,United States
+6/4/1997,1456,Hermanos Sweet Onion,Hermanos,4,1.83,0.73,1.0,USA
+10/10/1997,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,United States
+9/11/1997,214,High Top Party Nuts,High Top,3,2.82,1.07,1.0,USA
+6/10/1997,1421,Hermanos Corn on the Cob,Hermanos,4,2.84,1.39,,India
+11/6/1998,488,Tell Tale Prepared Salad,Tell Tale,3,2.59,1.3,1.0,Nepal
+8/21/1998,1443,Hermanos Firm Tofu,Hermanos,2,2.17,0.87,1.0,UK
+11/24/1998,174,High Top Sweet Peas,High Top,3,1.71,0.62,1.0,Nepal
+12/21/1998,501,Tell Tale Dried Mushrooms,Tell Tale,3,1.45,0.7,1.0,Nepal
+11/13/1998,485,Tell Tale Sweet Peas,Tell Tale,3,2.19,0.83,,UK
+1/4/1997,518,Tell Tale Sweet Onion,Tell Tale,1,1.36,0.68,,India
+12/5/1998,1425,Hermanos Beets,Hermanos,2,2.18,0.72,,United States
+2/9/1998,185,High Top Potatos,High Top,3,0.57,0.22,1.0,Nepal
+12/2/1997,178,High Top Onions,High Top,3,1.33,0.41,1.0,India
+8/17/1997,511,Tell Tale Fancy Plums,Tell Tale,3,0.68,0.34,,India
+7/27/1998,1122,Tri-State Garlic,Tri-State,2,0.74,0.32,1.0,United Kingdom
+7/4/1997,520,Tell Tale Honey Dew,Tell Tale,2,2.8,1.34,1.0,Nepal
+9/11/1998,825,Ebony Broccoli,Ebony,3,2.83,0.96,1.0,India
+6/2/1998,1134,Tri-State Macintosh Apples,Tri-State,4,1.82,0.67,1.0,UK
+4/29/1998,1456,Hermanos Sweet Onion,Hermanos,4,1.83,0.73,1.0,Nepal
+12/4/1998,1138,Tri-State Fancy Plums,Tri-State,2,2.44,0.78,1.0,United Kingdom
+4/12/1997,210,High Top Fuji Apples,High Top,2,1.54,0.55,,India
+10/15/1997,1118,Tri-State Shitake Mushrooms,Tri-State,4,2.93,1.44,1.0,India
+3/26/1998,484,Tell Tale Asparagus,Tell Tale,2,3.64,1.82,,UK
+12/23/1998,1447,Hermanos Red Delcious Apples,Hermanos,5,2.96,1.18,,United States
+6/13/1998,1448,Hermanos Lemons,Hermanos,4,3.94,1.62,,India
+7/16/1998,1446,Hermanos Golden Delcious Apples,Hermanos,2,1.26,0.4,,Nepal
+11/9/1998,825,Ebony Broccoli,Ebony,3,2.83,0.96,1.0,Nepal
+11/2/1997,1136,Tri-State Red Delcious Apples,Tri-State,4,3.61,1.77,1.0,United Kingdom
+8/20/1998,1444,Hermanos Almonds,Hermanos,5,1.76,0.63,1.0,United States
+10/18/1998,1430,Hermanos Lettuce,Hermanos,2,3.36,1.18,1.0,United Kingdom
+9/14/1997,1111,Tri-State Asparagus,Tri-State,4,0.78,0.25,1.0,United States
+3/30/1998,1432,Hermanos Red Pepper,Hermanos,3,1.8,0.59,,India
+7/22/1998,827,Ebony Mixed Nuts,Ebony,4,0.95,0.35,1.0,Nepal
+10/26/1998,826,Ebony Mandarin Oranges,Ebony,4,1.83,0.73,1.0,UK
+1/13/1998,822,Ebony Fancy Plums,Ebony,4,1.86,0.67,,United Kingdom
+5/9/1997,1458,Hermanos Honey Dew,Hermanos,3,2.9,1.33,1.0,United Kingdom
+4/3/1997,821,Ebony Lemons,Ebony,3,1.91,0.78,1.0,India
+8/26/1998,514,Tell Tale Broccoli,Tell Tale,3,1.81,0.65,1.0,United Kingdom
+9/20/1997,189,High Top Baby Onion,High Top,3,3.45,1.24,1.0,USA
+12/23/1998,1442,Hermanos Limes,Hermanos,3,1.64,0.72,,USA
+1/1/1997,830,Ebony Cantelope,Ebony,3,2.45,0.96,,UK
+12/10/1998,1123,Tri-State Potatos,Tri-State,2,1.96,0.92,,United States
+12/2/1998,1439,Hermanos Dried Mushrooms,Hermanos,4,1.5,0.75,,India
+2/12/1997,1463,Hermanos Party Nuts,Hermanos,3,1.98,0.75,1.0,United States
+2/7/1998,174,High Top Sweet Peas,High Top,3,1.71,0.62,1.0,United Kingdom
+8/20/1998,1134,Tri-State Macintosh Apples,Tri-State,2,1.82,0.67,1.0,Nepal
+11/2/1998,1124,Tri-State Cauliflower,Tri-State,3,0.81,0.41,1.0,USA
+9/23/1997,1436,Hermanos Tomatos,Hermanos,3,0.92,0.37,1.0,United Kingdom
+6/25/1998,519,Tell Tale Cantelope,Tell Tale,3,3.82,1.8,1.0,Nepal
+12/4/1998,1420,Hermanos Summer Squash,Hermanos,3,1.73,0.8,,Nepal
+7/22/1998,820,Ebony Red Delcious Apples,Ebony,3,0.7,0.3,,Nepal
+8/24/1997,1443,Hermanos Firm Tofu,Hermanos,3,2.17,0.87,1.0,UK
+5/24/1998,519,Tell Tale Cantelope,Tell Tale,3,3.82,1.8,1.0,India
+4/9/1998,1129,Tri-State Fresh Lima Beans,Tri-State,3,2.43,0.95,1.0,United Kingdom
+5/22/1998,1430,Hermanos Lettuce,Hermanos,3,3.36,1.18,1.0,India
+6/25/1998,1461,Hermanos Oranges,Hermanos,2,2.56,1.18,1.0,USA
+3/3/1998,199,High Top Lemons,High Top,5,1.67,0.73,1.0,United Kingdom
+4/17/1997,1436,Hermanos Tomatos,Hermanos,4,0.92,0.37,1.0,United States
+5/6/1998,1450,Hermanos Plums,Hermanos,5,2.77,1.3,1.0,India
+9/16/1998,1435,Hermanos Cauliflower,Hermanos,2,2.72,1.25,,United States
+7/10/1998,1141,Tri-State Broccoli,Tri-State,4,1.34,0.66,,India
+8/13/1998,510,Tell Tale Lemons,Tell Tale,2,0.61,0.27,1.0,United States
+5/16/1997,206,High Top Canned Peanuts,High Top,3,2.11,0.89,,India
+9/12/1998,1452,Hermanos Broccoli,Hermanos,4,2.89,1.39,,United Kingdom
+9/5/1998,508,Tell Tale Golden Delcious Apples,Tell Tale,4,3.79,1.36,1.0,India
+1/3/1997,495,Tell Tale Garlic,Tell Tale,4,1.17,0.48,1.0,India
+8/11/1997,1437,Hermanos Mushrooms,Hermanos,2,1.74,0.73,,India
+1/16/1998,525,Tell Tale Party Nuts,Tell Tale,4,2.85,0.88,,United States
+5/16/1997,1440,Hermanos Fresh Lima Beans,Hermanos,3,2.81,1.1,,UK
+4/12/1997,1441,Hermanos Squash,Hermanos,4,1.31,0.64,1.0,USA
+9/16/1998,172,High Top Corn on the Cob,High Top,3,3.32,1.03,,Nepal
+8/15/1998,206,High Top Canned Peanuts,High Top,3,2.11,0.89,,USA
+8/18/1998,202,High Top Peaches,High Top,3,1.49,0.7,,UK
+3/2/1997,192,High Top Squash,High Top,2,1.52,0.61,,United Kingdom
+6/6/1997,822,Ebony Fancy Plums,Ebony,4,1.86,0.67,,Nepal
+3/29/1997,1119,Tri-State Lettuce,Tri-State,2,3.17,1.55,1.0,India
+12/7/1998,1454,Hermanos Mixed Nuts,Hermanos,2,3.39,1.15,1.0,United Kingdom
+12/17/1998,811,Ebony Baby Onion,Ebony,3,2.97,0.95,1.0,India
+11/17/1997,1151,Tri-State Tangerines,Tri-State,2,0.62,0.31,1.0,UK
+7/27/1997,794,Ebony Corn on the Cob,Ebony,3,1.2,0.43,,UK
+11/26/1998,206,High Top Canned Peanuts,High Top,3,2.11,0.89,,United States
+1/10/1998,1111,Tri-State Asparagus,Tri-State,4,0.78,0.25,1.0,UK
+2/1/1998,1441,Hermanos Squash,Hermanos,4,1.31,0.64,1.0,India
+10/25/1998,1445,Hermanos Macintosh Apples,Hermanos,4,0.74,0.27,,United Kingdom
+1/6/1998,1422,Hermanos Asparagus,Hermanos,4,2.23,1.12,1.0,USA
+8/13/1998,808,Ebony Cauliflower,Ebony,4,1.39,0.53,1.0,Nepal
+3/8/1998,1429,Hermanos Shitake Mushrooms,Hermanos,3,2.4,1.2,1.0,Nepal
+1/7/1998,173,High Top Asparagus,High Top,3,1.43,0.6,,USA
+5/4/1997,179,High Top Green Pepper,High Top,3,2.75,0.88,,United Kingdom
+4/8/1997,833,Ebony Walnuts,Ebony,3,2.39,1.15,,India
+9/26/1998,212,High Top Oranges,High Top,2,1.66,0.58,,Nepal
+3/27/1997,1458,Hermanos Honey Dew,Hermanos,3,2.9,1.33,1.0,India
+10/29/1998,191,High Top Fresh Lima Beans,High Top,4,2.87,1.06,1.0,USA
+12/11/1997,1454,Hermanos Mixed Nuts,Hermanos,4,3.39,1.15,1.0,United States
+2/18/1997,808,Ebony Cauliflower,Ebony,3,1.39,0.53,1.0,UK
+5/28/1997,1130,Tri-State Squash,Tri-State,1,1.55,0.56,1.0,United States
+6/18/1998,500,Tell Tale Baby Onion,Tell Tale,3,2.66,1.28,,UK
+5/11/1998,483,Tell Tale Corn on the Cob,Tell Tale,3,1.94,0.68,1.0,Nepal
+1/11/1997,1462,Hermanos Tangerines,Hermanos,3,0.73,0.23,,India
+8/15/1997,1114,Tri-State Beets,Tri-State,3,3.42,1.2,1.0,USA
+4/11/1998,835,Ebony Tangerines,Ebony,3,3.49,1.64,,UK
+6/29/1997,503,Tell Tale Squash,Tell Tale,4,1.86,0.89,,USA
+12/27/1998,1443,Hermanos Firm Tofu,Hermanos,3,2.17,0.87,1.0,Nepal
+8/17/1997,1139,Tri-State Plums,Tri-State,3,2.86,1.4,1.0,United Kingdom
+3/19/1998,1427,Hermanos Onions,Hermanos,3,3.27,1.34,1.0,United Kingdom
+1/5/1998,519,Tell Tale Cantelope,Tell Tale,3,3.82,1.8,1.0,United States
+10/2/1998,485,Tell Tale Sweet Peas,Tell Tale,4,2.19,0.83,,United Kingdom
+5/26/1998,828,Ebony Canned Peanuts,Ebony,3,1.29,0.53,,United States
+11/7/1997,1421,Hermanos Corn on the Cob,Hermanos,4,2.84,1.39,,USA
+1/29/1998,1150,Tri-State Oranges,Tri-State,4,3.19,1.53,1.0,Nepal
+8/24/1997,1125,Tri-State Tomatos,Tri-State,4,2.21,0.82,1.0,United States
+4/17/1998,1137,Tri-State Lemons,Tri-State,5,1.77,0.64,,United Kingdom
+6/23/1998,189,High Top Baby Onion,High Top,2,3.45,1.24,1.0,India
+10/14/1998,1145,Tri-State Sweet Onion,Tri-State,3,1.57,0.55,,India
+8/13/1997,836,Ebony Party Nuts,Ebony,3,1.18,0.45,1.0,India
+8/22/1998,798,Ebony Beets,Ebony,4,2.71,0.84,,United States
+3/18/1998,504,Tell Tale Limes,Tell Tale,3,1.84,0.77,1.0,India
+11/5/1998,1431,Hermanos Elephant Garlic,Hermanos,5,2.82,0.87,1.0,USA
+6/18/1998,1109,Tri-State Summer Squash,Tri-State,3,0.55,0.24,,Nepal
+10/27/1997,1149,Tri-State Walnuts,Tri-State,3,0.88,0.39,,Nepal
+9/23/1997,525,Tell Tale Party Nuts,Tell Tale,3,2.85,0.88,,Nepal
+9/19/1998,1442,Hermanos Limes,Hermanos,1,1.64,0.72,,Nepal
+11/18/1998,815,Ebony Limes,Ebony,3,0.92,0.44,,UK
+11/25/1997,1429,Hermanos Shitake Mushrooms,Hermanos,2,2.4,1.2,1.0,Nepal
+6/29/1998,1444,Hermanos Almonds,Hermanos,4,1.76,0.63,1.0,UK
+3/19/1998,1130,Tri-State Squash,Tri-State,3,1.55,0.56,1.0,Nepal
+3/13/1997,1450,Hermanos Plums,Hermanos,3,2.77,1.3,1.0,India
+12/16/1998,1111,Tri-State Asparagus,Tri-State,3,0.78,0.25,1.0,India
+11/21/1997,1431,Hermanos Elephant Garlic,Hermanos,4,2.82,0.87,1.0,USA
+9/28/1998,1141,Tri-State Broccoli,Tri-State,4,1.34,0.66,,Nepal
+5/15/1997,517,Tell Tale Canned Peanuts,Tell Tale,3,3.4,1.63,,India
+5/10/1997,1118,Tri-State Shitake Mushrooms,Tri-State,4,2.93,1.44,1.0,UK
+10/3/1997,1119,Tri-State Lettuce,Tri-State,4,3.17,1.55,1.0,UK
+10/15/1998,513,Tell Tale Peaches,Tell Tale,5,0.58,0.28,1.0,United States
+8/3/1998,828,Ebony Canned Peanuts,Ebony,3,1.29,0.53,,Nepal
+6/6/1998,1126,Tri-State Mushrooms,Tri-State,4,1.16,0.42,1.0,India
+3/1/1997,834,Ebony Oranges,Ebony,2,2.96,0.92,,Nepal
+9/16/1998,525,Tell Tale Party Nuts,Tell Tale,2,2.85,0.88,,Nepal
+8/16/1998,803,Ebony Lettuce,Ebony,3,3.51,1.65,,United States
+10/26/1998,1147,Tri-State Honey Dew,Tri-State,2,1.42,0.44,,United States
+2/6/1998,1446,Hermanos Golden Delcious Apples,Hermanos,3,1.26,0.4,,India
+1/4/1998,1126,Tri-State Mushrooms,Tri-State,4,1.16,0.42,1.0,Nepal
+1/13/1997,1137,Tri-State Lemons,Tri-State,1,1.77,0.64,,USA
+4/30/1998,187,High Top Tomatos,High Top,4,1.32,0.42,,India
+3/6/1998,1461,Hermanos Oranges,Hermanos,5,2.56,1.18,1.0,India
+11/29/1998,1126,Tri-State Mushrooms,Tri-State,4,1.16,0.42,1.0,Nepal
+1/29/1998,1139,Tri-State Plums,Tri-State,3,2.86,1.4,1.0,UK
+12/20/1997,799,Ebony Prepared Salad,Ebony,3,2.84,1.28,1.0,Nepal
+6/26/1998,482,Tell Tale Summer Squash,Tell Tale,2,0.73,0.36,,Nepal
+5/17/1997,805,Ebony Red Pepper,Ebony,3,2.88,1.12,,India
+1/19/1998,176,High Top Beets,High Top,3,2.27,0.75,1.0,India
+9/10/1997,1425,Hermanos Beets,Hermanos,3,2.18,0.72,,UK
+12/17/1997,1436,Hermanos Tomatos,Hermanos,2,0.92,0.37,1.0,Nepal
+12/2/1998,178,High Top Onions,High Top,4,1.33,0.41,1.0,Nepal
+5/21/1997,505,Tell Tale Firm Tofu,Tell Tale,4,1.67,0.8,,Nepal
+9/17/1997,799,Ebony Prepared Salad,Ebony,3,2.84,1.28,1.0,United Kingdom
+2/2/1998,172,High Top Corn on the Cob,High Top,4,3.32,1.03,,UK
+4/16/1998,1124,Tri-State Cauliflower,Tri-State,3,0.81,0.41,1.0,Nepal
+9/5/1997,208,High Top Cantelope,High Top,2,2.47,1.11,1.0,United States
+10/2/1998,1431,Hermanos Elephant Garlic,Hermanos,2,2.82,0.87,1.0,Nepal
+11/16/1997,1117,Tri-State Green Pepper,Tri-State,3,3.64,1.42,1.0,UK
+8/3/1998,500,Tell Tale Baby Onion,Tell Tale,4,2.66,1.28,,Nepal
+5/10/1998,196,High Top Macintosh Apples,High Top,3,2.47,0.79,1.0,India
+6/17/1997,1134,Tri-State Macintosh Apples,Tri-State,3,1.82,0.67,1.0,India
+2/5/1997,185,High Top Potatos,High Top,4,0.57,0.22,1.0,UK
+9/10/1998,1460,Hermanos Walnuts,Hermanos,3,2.13,0.68,1.0,India
+5/30/1997,192,High Top Squash,High Top,2,1.52,0.61,,India
+2/11/1998,831,Ebony Honey Dew,Ebony,3,1.58,0.71,,India
+5/2/1997,1447,Hermanos Red Delcious Apples,Hermanos,3,2.96,1.18,,United States
+7/6/1997,1128,Tri-State Dried Mushrooms,Tri-State,2,2.61,1.04,1.0,Nepal
+11/27/1998,1439,Hermanos Dried Mushrooms,Hermanos,4,1.5,0.75,,United Kingdom
+5/26/1998,1145,Tri-State Sweet Onion,Tri-State,3,1.57,0.55,,USA
+1/10/1998,1430,Hermanos Lettuce,Hermanos,2,3.36,1.18,1.0,United Kingdom
+2/8/1998,516,Tell Tale Mixed Nuts,Tell Tale,4,1.85,0.63,1.0,India
+1/11/1998,508,Tell Tale Golden Delcious Apples,Tell Tale,4,3.79,1.36,1.0,UK
+12/19/1998,1451,Hermanos Peaches,Hermanos,3,1.62,0.63,1.0,United Kingdom
+7/21/1998,181,High Top Lettuce,High Top,4,0.93,0.35,,Nepal
+12/8/1998,484,Tell Tale Asparagus,Tell Tale,2,3.64,1.82,,USA
+7/19/1998,1462,Hermanos Tangerines,Hermanos,3,0.73,0.23,,India
+10/28/1998,185,High Top Potatos,High Top,4,0.57,0.22,1.0,India
+3/23/1998,829,Ebony Sweet Onion,Ebony,3,2.17,0.91,,United States
