@@ -118,21 +118,11 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue])
 ```
 Practice7/
 │
-├── Practice7.pbix
-├── Product_Details.csv
-├── image/
-└── README.md
+├── Practice7.pbix             # Power BI dashboard file
+├── Product_Details.csv        # Dataset used for analysis
+├── image/                     # Dashboard screenshot
+└── README.md      
 ```
-
----
-
-## ⚠️ Challenges Faced
-
-- Handling inconsistent country values  
-- Designing pricing tier logic  
-- Writing correct DAX measures  
-- Calculating revenue and profit accurately  
-- Structuring dashboard layout  
 
 ---
 
