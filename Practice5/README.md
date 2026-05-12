@@ -147,16 +147,6 @@ Practice5/
 - 📊 Bar Chart → Revenue by Platform  
 - 📋 Table → User–Session–Engagement Data  
 
----
-
-## ⚠️ Challenges Faced
-
-- Incorrect headers in dataset  
-- Relationship detection issues  
-- Inconsistent country names affecting map visualization  
-
----
-
 ## 💡 Key Learnings
 
 - Data cleaning in Power BI  
