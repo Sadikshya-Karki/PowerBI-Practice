@@ -129,15 +129,6 @@ Practice6/
 
 ---
 
-## ⚠️ Challenges Faced
-
-- Handling missing Platform values  
-- Fixing inconsistent country names  
-- Choosing correct data types  
-- Designing a balanced dashboard  
-
----
-
 ## 💡 Key Learnings
 
 - Data cleaning using Power Query  
